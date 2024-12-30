@@ -1,0 +1,1101 @@
+YEAR,month , CITY,CatEgory,PayMent_methoD,DEVICE_type,PROMOTion_used,CustSegment,ORDer_Value,Items sold,shipping_cost,Delivery_time,Product_rating,DiscOUNt
+2020,4,@Bursa,NA,Cr3dit C@rd,D3sktop,@Yes,@New,477.75,10,32.34 TRY,6,4.7,113.97
+2023,11,@NA,Toys ,Debit Card ,Desktop ,No ,@Returning,369.63,4,34.56 TRY,2,4.6,103.36
+2011,5,Samsun ,@NA,E-W@ll3t,Desktop ,No,@Returning,264.94,3,24.97 TRY,3,3.4,22.84
+2017,2,diyarbakir,clothing,@E-Wallet,Mobil3,YES,@NA,353.31,8,36.25 TRY,4,3.6,59.85
+2013,6,BURSA,NA,CREDIT CARD,Desktop ,YES,@Returning,NA,6,43.16 TRY,4,4.2,7.82
+2020,11,S@msun,NA ,NA ,D3sktop,@Yes,RETURNING,261.6,NA,37.59 TRY,6,4.3,65.53
+2020,11,NA ,@Clothing,cash on delivery,D3sktop,@Yes,@New,356.74,10,49.57 TRY,4,NA,70.95
+2023,NA,@Istanbul,Clothing,E-Wallet ,desktop,No,@Returning,426.42,5,60.29 TRY,5,3.9,69.84
+2022,6,Tr@bzon,Hom3,@Credit Card,Tablet ,@No,R3turning,74.79,4,9.8 TRY,1,3.9,22.11
+NA,5,Malatya ,beauty,na,desktop,@No,New ,370.41,NA,19.13 TRY,6,3.3,26.92
+2020,5,gaziantep,Beauty ,D3bit C@rd,TABLET,Yes ,new,170.2,7,20.32 TRY,7,4.7,1.61
+2019,2,Diyarbakir ,NA ,@Cash on Delivery,tablet,@No,Returning ,423.99,6,62.97 TRY,2,3.8,41.87
+2015,8,Van ,TOYS,E-W@ll3t,tablet,Yes ,NEW,361.8,4,NA TRY,5,3.9,17.07
+2014,NA,gaziantep,Home ,D3bit C@rd,Mobile ,YES,@Returning,78.82,1,4.05 TRY,7,3.9,4.05
+2015,7,NA,clothing,@Cash on Delivery,Desktop ,YES,new,399.63,10,58.21 TRY,4,4.8,3.22
+2011,10,KAYSERI,El3ctronics,cash on delivery,na,YES,returning,388.44,2,29.67 TRY,3,3.6,102.49
+2023,4,TRABZON,Home ,E-Wallet ,tablet,NO,N3w,254.53,7,19.91 TRY,5,4.6,37.49
+2016,3,Kayseri ,clothing,@Credit Card,NA,NA ,Returning ,268.32,5,38.01 TRY,NA,4.8,8.58
+2011,5,konya,HOME,Cash on Delivery ,T@bl3t,yes,@Returning,275.67,NA,NA TRY,4,4.8,72.24
+2014,10,NA ,BOOKS,D3bit C@rd,Mobil3,yes,N3w,196.72,7,16.6 TRY,7,4.6,25.98
+2014,12,@Van,beauty,DEBIT CARD,Mobil3,no,RETURNING,450.75,7,NA TRY,5,4.8,84.73
+2018,1,GAZIANTEP,B3@uty,D3bit C@rd,mobile,@No,N3w,85.15,9,5.13 TRY,1,NA,19.82
+2016,5,eskişehir,Clothing,E-WALLET,Tablet ,NA ,@Returning,176.65,3,NA TRY,NA,4.8,6.11
+2017,3,ankara,HOME,@Debit Card,Tablet ,@No,@NA,274.12,1,35.45 TRY,1,3.4,73.89
+2019,10,samsun,@Toys,Debit Card ,NA ,Y3s,New ,269.09,5,15.99 TRY,7,3.6,76.76
+NA,4,konya,BEAUTY,@Cash on Delivery,Mobile ,Y3s,NA,NA,2,18.65 TRY,5,3.2,9.55
+2011,3,VAN,B3@uty,Credit Card ,T@bl3t,YES,Returning ,366.0,5,51.88 TRY,3,4.6,18.55
+2018,12,na,home,credit card,DESKTOP,no,returning,344.27,4,41.93 TRY,7,3.6,79.89
+2017,11,kayseri,ELECTRONICS,Credit Card ,Desktop ,@No,@Returning,367.9,9,37.46 TRY,7,3.3,56.25
+2012,4,@Trabzon,electronics,Debit Card ,Desktop ,yes,na,111.71,2,7.48 TRY,1,3.3,15.87
+2023,8,eskişehir,Beauty ,NA ,@Mobile,YES,New ,287.7,3,29.6 TRY,5,4.8,19.34
+2016,NA,Samsun ,Electronics ,Credit Card ,D3sktop,no,new,158.46,3,8.52 TRY,5,4.2,19.13
+2013,5,Izmir,electronics,Cr3dit C@rd,TABLET,No ,NEW,491.16,9,29.13 TRY,5,4.9,40.66
+2011,12,Istanbul ,@NA,Debit Card ,@Desktop,no,RETURNING,99.3,2,7.36 TRY,NA,3.1,12.0
+2021,11,Eskiş3hir,HOME,CASH ON DELIVERY,NA,Yes ,@Returning,138.08,7,NA TRY,4,4.4,20.32
+2017,8,gaziantep,@Toys,CASH ON DELIVERY,DESKTOP,Yes ,Returning ,NA,8,40.48 TRY,6,4.0,123.32
+NA,1,Malatya ,@Electronics,@Credit Card,T@bl3t,Yes ,@Returning,495.36,9,50.29 TRY,6,4.6,69.93
+2013,12,@Ankara,NA ,E-Wallet ,@Desktop,@Yes,@Returning,374.39,8,30.61 TRY,7,NA,107.58
+2010,12,@Adana,TOYS,NA,@Tablet,NO,NA,119.02,5,8.83 TRY,5,3.8,10.87
+2022,7,Burs@,Home ,cash on delivery,Desktop ,NO,RETURNING,495.03,8,NA TRY,6,3.9,127.41
+NA,12,Istanbul ,@Electronics,Debit Card ,mobile,No ,R3turning,340.75,9,37.23 TRY,6,4.4,17.51
+2023,7,bursa,Toys,@E-Wallet,@Mobile,No ,returning,NA,3,8.06 TRY,5,3.8,10.94
+2015,8,Malatya ,Hom3,Cr3dit C@rd,@Tablet,no,N3w,379.35,2,21.07 TRY,6,3.4,108.49
+NA,7,na,TOYS,Cash on Delivery ,MOBILE,Yes ,returning,268.06,4,29.51 TRY,7,3.5,34.76
+2022,10,trabzon,@Electronics,debit card,DESKTOP,Yes ,Returning ,NA,NA,33.67 TRY,2,4.7,145.12
+2022,10,istanbul,books,E-Wallet ,@Mobile,na,RETURNING,121.84,10,15.91 TRY,7,4.8,NA
+2018,2,Tr@bzon,Beauty ,@Debit Card,D3sktop,NO,returning,106.37,4,11.88 TRY,4,3.6,13.38
+2017,4,M@l@ty@,TOYS,credit card,NA,no,@Returning,225.25,8,21.42 TRY,3,5.0,49.06
+2019,8,@Eskişehir,Beauty ,Cr3dit C@rd,DESKTOP,Y3s,New ,NA,9,36.92 TRY,1,3.6,53.67
+2023,NA,van,B3@uty,@E-Wallet,@Mobile,NO,returning,433.76,1,23.41 TRY,4,3.1,21.35
+2018,7,VAN,Books,@Debit Card,D3sktop,@No,NEW,NA,4,6.48 TRY,6,4.4,5.59
+2010,11,V@n,Home ,D3bit C@rd,desktop,no,RETURNING,169.54,2,18.14 TRY,3,3.7,NA
+2015,9,eskişehir,Beauty ,cash on delivery,NA ,@No,R3turning,188.03,10,22.24 TRY,4,4.0,39.41
+2012,4,ADANA,Clothing ,e-wallet,Mobile ,NO,RETURNING,239.68,1,32.47 TRY,7,3.6,21.8
+2019,11,@Malatya,@Electronics,Cash on Delivery ,@Desktop,yes,N3w,229.89,7,31.97 TRY,7,3.9,NA
+2017,4,@NA,clothing,@Debit Card,mobile,No ,@New,59.18,6,8.07 TRY,NA,4.3,1.39
+2012,1,@Ankara,Clothing ,@Cash on Delivery,tablet,@No,@New,291.93,NA,40.19 TRY,NA,4.6,54.74
+2014,9,Van ,NA,@Debit Card,Desktop ,Yes ,returning,369.6,4,NA TRY,2,3.6,51.93
+2023,12,K@ys3ri,Clothing,E-WALLET,Mobil3,NO,@New,301.2,3,35.82 TRY,3,3.9,86.73
+2018,7,Malatya ,Clothing ,E-W@ll3t,Mobile ,no,@Returning,318.54,6,41.97 TRY,6,3.7,NA
+2011,6,@Kayseri,NA,NA ,tablet,NO,NEW,481.03,5,44.85 TRY,3,4.6,50.05
+2013,2,ESKIŞEHIR,BOOKS,@E-Wallet,T@bl3t,na,@Returning,286.29,3,20.02 TRY,1,3.4,27.17
+2010,4,NA ,El3ctronics,Cash on Delivery ,Tablet ,No,@New,80.2,8,8.5 TRY,4,4.1,15.1
+2021,12,DIYARBAKIR,books,D3bit C@rd,Mobile ,NO,@New,324.01,8,18.24 TRY,7,3.7,72.41
+2014,8,Izmir ,@Beauty,@Cash on Delivery,Mobil3,Yes ,new,150.2,2,10.85 TRY,2,4.7,28.09
+2020,NA,ADANA,@Home,CREDIT CARD,Tablet ,No,R3turning,133.96,4,9.03 TRY,2,4.3,18.96
+2016,9,trabzon,BOOKS,DEBIT CARD,desktop,@No,N3w,478.9,6,48.66 TRY,5,4.3,74.63
+2020,2,KONYA,electronics,cash on delivery,@Tablet,no,new,496.99,4,50.82 TRY,4,NA,139.06
+2010,NA,Diyarbakir ,Books ,C@sh on D3liv3ry,T@bl3t,NO,new,165.36,NA,19.42 TRY,2,3.6,22.47
+NA,7,trabzon,@Books,@Credit Card,desktop,@Yes,N3w,446.93,8,66.77 TRY,1,3.9,81.95
+2023,12,NA,NA,D3bit C@rd,@Desktop,Yes ,R3turning,457.67,7,66.29 TRY,7,4.5,118.24
+2023,6,trabzon,NA,NA,tablet,@Yes,R3turning,61.04,NA,3.95 TRY,6,3.9,2.71
+2022,3,VAN,books,Cr3dit C@rd,@Tablet,@Yes,N3w,244.82,2,19.24 TRY,6,4.3,9.79
+2019,8,@NA,Beauty ,NA,D3sktop,yes,@Returning,353.87,3,41.79 TRY,2,3.8,25.23
+2011,1,Antalya ,home,NA ,Tablet ,@No,R3turning,NA,1,26.83 TRY,1,3.5,57.62
+2020,8,VAN,@Toys,@Credit Card,D3sktop,@Yes,NEW,429.77,NA,30.26 TRY,3,4.9,126.37
+NA,8,ankara,Toys,E-W@ll3t,desktop,YES,@New,276.15,2,16.07 TRY,2,3.6,35.83
+2012,6,KAYSERI,BOOKS,E-WALLET,Mobile ,Yes ,@New,491.11,NA,29.09 TRY,6,4.2,126.82
+2017,10,Eskişehir ,NA,Cash on Delivery ,Mobile ,No ,New ,270.11,4,37.92 TRY,3,4.6,59.04
+2019,6,Ankara ,Electronics ,@Credit Card,tablet,Yes ,Returning ,464.37,7,36.65 TRY,4,3.3,65.95
+2022,6,Kayseri ,Toys ,D3bit C@rd,@Mobile,NA ,@Returning,354.86,5,19.51 TRY,4,4.4,90.9
+2019,NA,Ank@r@,na,Cr3dit C@rd,DESKTOP,yes,R3turning,194.61,9,10.72 TRY,1,3.1,31.4
+2018,9,diyarbakir,@Home,na,desktop,NO,R3turning,231.94,8,17.4 TRY,6,3.9,67.63
+2014,1,@Samsun,beauty,E-Wallet ,TABLET,@Yes,NEW,200.43,10,25.05 TRY,6,3.7,56.44
+2018,6,Mersin ,books,C@sh on D3liv3ry,mobile,NO,returning,442.56,5,48.44 TRY,6,3.5,70.8
+2010,3,Gaziantep ,BOOKS,E-W@ll3t,NA ,No,@New,479.6,NA,49.05 TRY,7,4.6,105.9
+2011,NA,izmir,Beauty ,E-Wallet ,desktop,@No,New ,451.82,5,47.85 TRY,7,3.7,NA
+2023,4,Ad@n@,NA,@Debit Card,D3sktop,@NA,New ,496.13,4,39.72 TRY,5,3.5,69.04
+2017,2,ANTALYA,HOME,CASH ON DELIVERY,@Tablet,no,Returning ,172.58,6,21.57 TRY,6,3.8,35.92
+2021,5,Mersin ,Books ,credit card,Tablet ,Y3s,@Returning,85.48,5,11.92 TRY,NA,3.5,NA
+2013,10,izmir,TOYS,Credit Card ,tablet,@Yes,NEW,208.89,6,12.64 TRY,4,4.4,36.28
+2010,4,SAMSUN,Electronics ,Cash on Delivery ,Mobile ,@No,NA,394.64,NA,52.43 TRY,7,4.2,113.64
+2014,1,GAZIANTEP,Beauty ,C@sh on D3liv3ry,@Desktop,NO,N3w,185.85,NA,15.08 TRY,NA,4.5,32.58
+2014,NA,MALATYA,Home ,C@sh on D3liv3ry,NA,yes,NEW,405.66,4,55.42 TRY,1,3.6,15.54
+2010,6,ANKARA,ELECTRONICS,@E-Wallet,tablet,YES,R3turning,265.37,9,34.64 TRY,6,4.2,12.09
+2013,4,adana,books,credit card,tablet,Y3s,R3turning,376.51,2,34.57 TRY,NA,4.3,6.06
+2011,11,kayseri,HOME,Debit Card ,desktop,yes,N3w,360.49,8,37.52 TRY,5,4.9,92.48
+2019,12,NA,Books ,e-wallet,@Desktop,YES,New ,163.42,3,10.0 TRY,6,NA,28.96
+2010,12,@Van,@Beauty,Cash on Delivery ,Mobile ,No,Returning ,302.07,5,24.89 TRY,5,4.4,63.46
+NA,2,Van ,@Electronics,@Debit Card,@Tablet,yes,New ,355.86,9,46.49 TRY,6,3.9,71.17
+2015,7,GAZIANTEP,NA,Cr3dit C@rd,Desktop ,yes,NEW,410.93,1,32.52 TRY,6,3.5,121.61
+2016,2,Mersin ,@NA,C@sh on D3liv3ry,D3sktop,No,@New,409.87,9,51.38 TRY,6,4.8,2.72
+2019,1,M@l@ty@,Clothing,@Debit Card,tablet,Y3s,R3turning,175.21,7,21.26 TRY,4,3.5,49.22
+2017,11,M3rsin,NA,D3bit C@rd,T@bl3t,YES,@New,334.5,5,44.11 TRY,5,3.6,75.03
+2022,8,SAMSUN,NA ,D3bit C@rd,DESKTOP,No ,R3turning,262.15,6,36.39 TRY,1,4.7,32.84
+2013,1,@Kayseri,Home ,e-wallet,TABLET,Y3s,R3turning,212.61,3,27.9 TRY,1,4.4,31.33
+2011,11,@Antalya,Hom3,credit card,desktop,NO,N3w,337.12,NA,28.62 TRY,6,NA,93.72
+2013,5,Ank@r@,NA ,E-WALLET,Mobil3,NO,NA,314.59,4,39.2 TRY,5,3.7,39.37
+2021,6,Diy@rb@kir,HOME,CASH ON DELIVERY,Mobil3,YES,@New,297.68,10,36.21 TRY,6,NA,75.47
+2019,4,bursa,Clothing,Credit Card ,tablet,YES,New ,252.36,1,24.07 TRY,1,3.2,34.45
+2017,10,@NA,beauty,D3bit C@rd,TABLET,@No,@Returning,496.66,8,49.42 TRY,6,3.1,NA
+2023,11,Van ,clothing,debit card,tablet,no,na,454.87,5,27.43 TRY,NA,3.1,NA
+2010,4,SAMSUN,HOME,Cr3dit C@rd,DESKTOP,@Yes,NA,251.78,NA,24.47 TRY,7,5.0,21.6
+2014,7,bursa,El3ctronics,Cash on Delivery ,Desktop ,no,new,263.51,7,29.39 TRY,3,3.2,72.66
+2012,8,VAN,ELECTRONICS,credit card,DESKTOP,No,Returning ,483.9,5,66.9 TRY,1,4.7,84.2
+2010,11,adana,TOYS,e-wallet,DESKTOP,Y3s,RETURNING,420.06,6,49.87 TRY,6,5.0,36.89
+2023,11,gaziantep,@Electronics,C@sh on D3liv3ry,@Desktop,Yes ,@New,478.61,4,33.47 TRY,5,4.8,49.28
+NA,2,mersin,Hom3,E-Wallet ,@Mobile,@Yes,NEW,71.75,NA,5.25 TRY,NA,4.2,10.56
+2022,3,VAN,Hom3,C@sh on D3liv3ry,desktop,@Yes,New ,392.98,7,24.14 TRY,1,3.6,96.86
+2014,NA,Ist@nbul,clothing,E-W@ll3t,DESKTOP,no,New ,273.28,3,32.17 TRY,NA,3.6,60.61
+2022,8,Trabzon ,CLOTHING,Credit Card ,mobile,Yes ,returning,86.9,6,8.15 TRY,3,3.5,NA
+2010,9,VAN,Clothing ,@Debit Card,tablet,No,new,430.68,NA,44.54 TRY,5,4.1,69.06
+2021,3,na,books,CREDIT CARD,@Tablet,@NA,returning,298.17,8,21.2 TRY,1,4.0,85.82
+2010,3,G@zi@nt3p,na,@Cash on Delivery,D3sktop,Yes ,@Returning,89.92,2,7.0 TRY,4,NA,13.96
+2010,11,NA,Books,cash on delivery,Desktop ,yes,R3turning,432.86,2,26.97 TRY,5,3.8,112.72
+2016,10,na,@Toys,@Cash on Delivery,@Desktop,YES,Returning ,NA,1,47.62 TRY,4,3.9,41.66
+2023,8,@Izmir,ELECTRONICS,E-Wallet ,MOBILE,YES,Returning ,101.51,10,6.18 TRY,7,3.6,13.61
+2018,1,Adana ,clothing,Cr3dit C@rd,Mobil3,NO,NEW,479.05,7,53.19 TRY,2,3.6,44.61
+2022,NA,Ant@ly@,CLOTHING,@Credit Card,desktop,yes,na,55.24,8,5.6 TRY,7,3.1,7.62
+2012,6,SAMSUN,beauty,DEBIT CARD,Tablet ,YES,NEW,NA,2,38.61 TRY,4,3.9,19.73
+2016,5,NA,toys,C@sh on D3liv3ry,DESKTOP,NO,@NA,194.64,NA,14.44 TRY,2,3.2,21.98
+NA,12,na,home,E-W@ll3t,@Mobile,yes,N3w,236.16,NA,17.78 TRY,7,3.0,11.31
+2019,9,gaziantep,@NA,E-Wallet ,@Mobile,@No,RETURNING,420.04,10,44.3 TRY,5,4.8,75.82
+2019,NA,Ist@nbul,@Clothing,@Cash on Delivery,TABLET,Yes ,returning,207.79,6,30.24 TRY,5,4.4,57.3
+2022,8,Van ,Toys ,Cr3dit C@rd,Desktop ,na,@New,78.02,8,6.7 TRY,2,3.8,9.12
+2019,NA,@Ankara,Books,@E-Wallet,na,No,R3turning,336.04,7,47.58 TRY,1,3.6,97.67
+2011,11,K@ys3ri,@Toys,CASH ON DELIVERY,D3sktop,yes,@Returning,224.32,7,20.67 TRY,7,3.7,63.07
+2023,1,@Istanbul,ELECTRONICS,CREDIT CARD,Mobile ,NO,RETURNING,73.4,1,6.9 TRY,5,3.0,8.01
+2011,2,trabzon,BEAUTY,D3bit C@rd,tablet,@No,@New,247.08,NA,34.79 TRY,NA,3.4,2.06
+2022,12,konya,Hom3,NA ,TABLET,@No,N3w,268.15,2,35.65 TRY,NA,4.4,6.36
+2015,10,Antalya ,Toys,Cr3dit C@rd,Tablet ,yes,NEW,355.94,9,47.83 TRY,6,4.5,75.97
+NA,5,Izmir,@Books,NA,T@bl3t,Yes ,returning,378.11,3,43.53 TRY,3,3.2,94.31
+2013,1,@Diyarbakir,@Toys,na,DESKTOP,@No,RETURNING,442.83,5,44.26 TRY,6,4.9,28.98
+2020,9,na,@Electronics,Cr3dit C@rd,DESKTOP,yes,@Returning,168.86,4,14.81 TRY,1,4.8,NA
+2017,10,ISTANBUL,@Toys,NA ,DESKTOP,na,@Returning,495.2,3,NA TRY,6,5.0,140.31
+2022,3,@Eskişehir,@Books,Debit Card ,D3sktop,Yes ,R3turning,193.21,3,11.49 TRY,3,4.4,34.88
+NA,2,Ant@ly@,beauty,CREDIT CARD,Desktop ,No,new,196.73,1,28.96 TRY,2,4.5,32.92
+2012,6,@Antalya,ELECTRONICS,@E-Wallet,@Mobile,YES,N3w,445.43,1,63.5 TRY,3,3.5,112.99
+2011,11,Trabzon ,clothing,credit card,Mobil3,na,NEW,457.48,3,40.33 TRY,2,3.8,69.1
+2019,9,@Kayseri,Books ,Cr3dit C@rd,NA,Y3s,@Returning,472.66,7,43.06 TRY,2,3.2,75.59
+2018,10,@NA,El3ctronics,@NA,Tablet ,@Yes,RETURNING,109.22,10,7.97 TRY,5,3.2,10.04
+2012,8,samsun,NA,E-Wallet ,TABLET,NA ,RETURNING,167.04,5,16.74 TRY,5,4.1,46.31
+2017,9,@NA,Clothing,@E-Wallet,@Mobile,No ,returning,175.06,8,10.02 TRY,1,4.8,45.96
+2023,6,Burs@,Books,C@sh on D3liv3ry,T@bl3t,no,@New,218.5,NA,29.32 TRY,NA,4.2,46.59
+2016,3,KONYA,clothing,NA ,tablet,No,New ,202.42,NA,14.81 TRY,6,NA,48.62
+2023,4,na,NA,@E-Wallet,DESKTOP,NA,New ,482.68,NA,52.12 TRY,7,3.3,57.03
+2023,1,bursa,@Clothing,DEBIT CARD,mobile,Yes ,NEW,123.92,6,12.12 TRY,5,3.2,12.44
+2012,2,ankara,@Beauty,CREDIT CARD,TABLET,no,@New,158.0,NA,9.46 TRY,7,4.8,9.59
+2022,2,M@l@ty@,clothing,CREDIT CARD,T@bl3t,NA,new,468.56,8,37.23 TRY,4,3.1,79.15
+2017,NA,GAZIANTEP,TOYS,E-WALLET,desktop,no,RETURNING,489.43,10,72.74 TRY,2,4.8,111.99
+2015,5,K@ys3ri,Books ,debit card,Desktop ,No ,NEW,108.29,NA,5.92 TRY,1,4.4,4.05
+2015,5,@Antalya,NA ,Debit Card ,NA ,No ,Returning ,143.06,8,21.29 TRY,2,4.1,29.85
+NA,11,ANTALYA,clothing,@E-Wallet,tablet,@Yes,returning,207.34,6,19.71 TRY,1,NA,NA
+2013,11,Diyarbakir ,Electronics ,Cash on Delivery ,mobile,No,R3turning,495.81,6,31.66 TRY,3,3.6,11.31
+2023,4,na,Hom3,CASH ON DELIVERY,@Mobile,YES,N3w,408.02,7,38.19 TRY,7,4.3,97.15
+2016,4,@Eskişehir,clothing,@Credit Card,MOBILE,No ,new,115.89,2,14.64 TRY,2,4.0,3.66
+2023,9,Izmir ,Toys ,Cr3dit C@rd,Mobil3,@No,new,94.26,9,8.67 TRY,2,3.4,27.67
+2014,6,@Konya,TOYS,credit card,mobile,Yes ,Returning ,191.26,9,NA TRY,2,4.8,13.68
+2011,NA,na,B3@uty,@Debit Card,@Desktop,no,N3w,252.02,6,35.45 TRY,NA,4.1,62.95
+2022,9,Ant@ly@,@NA,debit card,Mobil3,@Yes,RETURNING,279.23,4,34.62 TRY,3,4.9,77.61
+2019,9,IZMIR,@NA,e-wallet,Mobile ,@NA,new,132.77,5,8.15 TRY,3,NA,0.36
+2013,6,TRABZON,BEAUTY,@Debit Card,MOBILE,Yes ,@Returning,426.09,5,51.38 TRY,2,3.8,69.52
+2013,11,DIYARBAKIR,B3@uty,@Debit Card,Tablet ,No,Returning ,272.45,1,NA TRY,6,3.8,33.69
+2018,2,S@msun,Books ,E-WALLET,MOBILE,@Yes,Returning ,191.77,NA,19.85 TRY,3,3.0,32.3
+2016,3,NA ,home,credit card,tablet,No ,@Returning,240.02,3,NA TRY,1,4.5,69.37
+2018,6,Eskişehir ,@Clothing,@Credit Card,@Tablet,Y3s,Returning ,109.87,7,7.77 TRY,6,NA,8.45
+2017,7,S@msun,Beauty ,credit card,TABLET,no,@New,444.39,3,26.71 TRY,7,3.4,NA
+2011,11,Kayseri ,B3@uty,D3bit C@rd,TABLET,@Yes,New ,115.79,4,11.42 TRY,5,3.0,12.75
+2023,3,SAMSUN,CLOTHING,NA,na,Yes ,R3turning,119.73,NA,6.33 TRY,6,3.6,17.13
+2020,2,G@zi@nt3p,@Toys,cash on delivery,mobile,Y3s,NEW,487.47,10,24.62 TRY,5,4.6,60.57
+2021,5,Ank@r@,BEAUTY,C@sh on D3liv3ry,Mobil3,no,@Returning,NA,7,9.88 TRY,4,4.4,16.73
+NA,7,Istanbul ,@Books,NA ,Tablet ,@Yes,new,456.41,2,47.94 TRY,3,3.3,25.21
+2018,3,Ank@r@,na,e-wallet,D3sktop,No,returning,301.36,NA,36.85 TRY,1,4.3,33.42
+2021,9,Burs@,HOME,D3bit C@rd,T@bl3t,yes,NEW,208.69,2,31.21 TRY,2,4.4,15.01
+2014,12,NA ,HOME,D3bit C@rd,DESKTOP,@Yes,@New,237.41,9,28.81 TRY,3,4.0,25.88
+NA,5,kayseri,NA ,@Cash on Delivery,MOBILE,NO,RETURNING,355.21,5,27.8 TRY,2,4.0,14.37
+2023,4,diyarbakir,@Beauty,Cash on Delivery ,desktop,Y3s,N3w,102.4,10,13.48 TRY,6,3.9,26.95
+2023,6,Trabzon ,B3@uty,Cr3dit C@rd,desktop,Y3s,new,278.85,9,13.95 TRY,NA,3.3,46.97
+2013,7,Burs@,clothing,NA ,desktop,NA,R3turning,232.21,7,14.74 TRY,3,4.4,1.17
+2022,8,Konya ,Toys ,@Debit Card,D3sktop,NO,NEW,356.38,2,45.28 TRY,5,3.4,54.07
+2016,2,Diyarbakir ,clothing,CREDIT CARD,MOBILE,no,@NA,393.53,5,26.38 TRY,NA,3.3,27.53
+2013,2,GAZIANTEP,CLOTHING,Debit Card ,D3sktop,No,@Returning,217.46,9,28.59 TRY,3,3.7,24.41
+2023,7,K@ys3ri,BOOKS,Debit Card ,Mobile ,@NA,@New,NA,2,33.31 TRY,2,3.3,21.22
+2014,5,S@msun,@Toys,credit card,Mobil3,Y3s,New ,227.9,NA,24.76 TRY,4,4.2,66.66
+NA,7,@Ankara,Toys ,@E-Wallet,desktop,yes,returning,360.86,4,38.19 TRY,1,4.6,21.68
+2021,10,Izmir ,NA,D3bit C@rd,tablet,@Yes,@Returning,358.46,2,40.74 TRY,1,4.6,NA
+2022,7,Trabzon ,El3ctronics,Credit Card ,D3sktop,no,new,364.64,1,19.44 TRY,5,3.7,13.57
+2022,7,@Gaziantep,@Clothing,E-WALLET,mobile,Y3s,Returning ,104.1,1,12.71 TRY,4,4.4,4.74
+2021,NA,ankara,Clothing,CASH ON DELIVERY,DESKTOP,yes,@New,315.75,1,44.06 TRY,7,4.1,22.52
+2021,11,@Bursa,HOME,NA,DESKTOP,NA,RETURNING,276.98,NA,NA TRY,5,4.8,4.56
+2018,4,NA,@Home,E-W@ll3t,na,no,Returning ,271.17,10,21.99 TRY,2,4.2,59.33
+NA,2,mersin,Toys,Credit Card ,T@bl3t,NO,N3w,224.39,8,18.27 TRY,4,4.1,NA
+2022,11,NA,BEAUTY,debit card,@Desktop,YES,returning,217.49,1,25.28 TRY,6,4.2,61.9
+2022,6,MALATYA,clothing,E-W@ll3t,Mobil3,yes,New ,422.37,3,27.32 TRY,3,3.1,33.22
+2014,NA,@Istanbul,TOYS,@Debit Card,Mobile ,Y3s,New ,NA,8,69.41 TRY,1,3.3,139.81
+2016,8,@Istanbul,Hom3,credit card,@Desktop,@Yes,NEW,152.15,6,13.19 TRY,7,3.4,29.57
+2018,7,bursa,Hom3,e-wallet,@Desktop,yes,@Returning,199.45,5,NA TRY,4,4.9,12.52
+2010,4,Ankara ,TOYS,Debit Card ,NA ,@Yes,New ,307.86,5,33.34 TRY,1,4.6,3.77
+2020,10,ESKIŞEHIR,Clothing,DEBIT CARD,@Mobile,Y3s,NEW,101.7,3,14.37 TRY,1,4.8,18.64
+2015,12,MERSIN,Books,E-WALLET,DESKTOP,YES,R3turning,265.53,5,31.41 TRY,3,3.2,24.65
+2020,10,KONYA,@Books,cash on delivery,Mobile ,no,new,175.33,9,NA TRY,4,4.3,35.18
+2014,11,van,@Clothing,debit card,desktop,yes,@New,84.09,2,10.45 TRY,4,4.6,22.95
+2017,4,adana,Home ,Cr3dit C@rd,D3sktop,YES,Returning ,245.47,4,22.23 TRY,4,4.3,46.94
+2011,4,Konya ,B3@uty,@E-Wallet,@Tablet,Y3s,New ,301.17,3,NA TRY,NA,3.2,74.02
+2013,8,gaziantep,TOYS,debit card,@Mobile,no,R3turning,440.63,1,46.82 TRY,5,3.8,82.78
+2011,9,Kayseri ,Clothing ,E-WALLET,TABLET,Y3s,@New,206.94,10,16.22 TRY,7,3.1,30.93
+2013,NA,ANTALYA,home,@E-Wallet,tablet,Y3s,NEW,99.38,2,9.46 TRY,6,4.0,24.46
+2016,11,Ant@ly@,@Electronics,NA ,Desktop ,Yes ,@Returning,216.92,1,18.14 TRY,NA,3.5,43.5
+2019,11,GAZIANTEP,Books,CREDIT CARD,NA,No ,NEW,421.02,3,62.38 TRY,6,4.7,99.08
+2013,4,na,Beauty ,Cash on Delivery ,TABLET,No ,New ,390.57,3,33.41 TRY,6,4.4,4.61
+2019,NA,Ant@ly@,beauty,cash on delivery,mobile,@Yes,@New,412.1,4,52.54 TRY,4,4.7,19.53
+2010,8,Kayseri ,HOME,NA,@Mobile,yes,NEW,233.46,7,27.26 TRY,6,3.0,51.63
+2020,11,@Adana,beauty,Debit Card ,desktop,NO,Returning ,244.98,4,35.97 TRY,3,3.3,40.05
+2023,9,ISTANBUL,Hom3,CREDIT CARD,@Desktop,Yes ,Returning ,86.85,1,9.04 TRY,1,3.5,16.97
+2015,7,@Malatya,ELECTRONICS,@Credit Card,tablet,Yes ,@New,267.91,2,NA TRY,NA,5.0,27.89
+2021,11,Ankara ,Home ,@NA,@Mobile,yes,Returning ,433.05,7,64.16 TRY,2,4.2,125.93
+2011,6,Kony@,@Toys,E-WALLET,TABLET,NA,N3w,408.63,9,45.71 TRY,3,3.0,83.26
+2011,7,eskişehir,home,C@sh on D3liv3ry,@NA,yes,New ,203.29,2,17.92 TRY,5,3.7,NA
+2015,NA,ISTANBUL,Electronics ,debit card,@Tablet,No ,R3turning,266.49,7,13.8 TRY,6,NA,71.05
+2019,4,trabzon,BOOKS,CASH ON DELIVERY,MOBILE,Yes ,N3w,433.04,8,47.16 TRY,7,4.3,NA
+2015,1,IZMIR,@Beauty,@Cash on Delivery,Desktop ,YES,Returning ,426.4,9,45.41 TRY,5,NA,NA
+2020,NA,antalya,ELECTRONICS,Cash on Delivery ,Tablet ,NO,RETURNING,269.02,2,34.48 TRY,1,3.9,16.46
+2023,NA,@Eskişehir,El3ctronics,e-wallet,mobile,@No,NEW,NA,9,42.58 TRY,6,4.4,81.06
+2017,2,mersin,@Clothing,Cr3dit C@rd,Mobile ,NA,N3w,335.17,8,29.19 TRY,NA,4.2,43.36
+2023,11,@Bursa,Toys ,CASH ON DELIVERY,mobile,Y3s,@Returning,NA,3,33.97 TRY,4,4.0,26.3
+2023,7,Izmir ,Toys,CASH ON DELIVERY,Mobile ,@Yes,Returning ,421.6,5,55.56 TRY,1,4.8,102.68
+2010,3,Konya ,@Books,@Debit Card,MOBILE,No,N3w,474.32,10,28.0 TRY,3,4.3,23.93
+NA,10,@Ankara,Home ,C@sh on D3liv3ry,DESKTOP,NO,@Returning,441.17,5,41.18 TRY,1,3.2,94.1
+2017,9,diyarbakir,books,e-wallet,@Mobile,Y3s,new,445.93,6,28.65 TRY,1,3.0,46.59
+2023,10,NA,@Home,E-W@ll3t,MOBILE,YES,N3w,136.96,7,15.78 TRY,5,4.5,15.87
+2017,10,Izmir ,Electronics ,cash on delivery,Mobil3,@Yes,returning,105.79,3,14.95 TRY,7,3.4,NA
+2016,10,ADANA,@Beauty,@Debit Card,Tablet ,NA ,new,347.6,NA,39.96 TRY,7,4.9,66.51
+2013,10,@NA,NA,NA,@Desktop,yes,NA,101.06,1,13.23 TRY,2,4.6,7.56
+2019,2,Ant@ly@,@Books,Credit Card ,@Mobile,NO,@Returning,332.76,NA,46.03 TRY,5,3.1,56.43
+2015,12,kayseri,Toys ,@Debit Card,@Tablet,@No,na,393.15,5,48.93 TRY,6,4.7,100.34
+2012,1,@Antalya,Electronics ,Cash on Delivery ,Mobile ,no,@New,374.74,8,48.26 TRY,2,3.8,13.06
+2012,11,Ank@r@,@Electronics,NA,Mobil3,yes,@Returning,NA,3,36.65 TRY,4,4.0,95.52
+2023,5,S@msun,BEAUTY,E-WALLET,NA,NO,@New,408.83,8,28.5 TRY,6,4.3,101.96
+2016,4,KONYA,BOOKS,E-Wallet ,NA,yes,NEW,157.34,5,21.43 TRY,2,3.4,10.34
+2011,12,KAYSERI,NA,e-wallet,NA,@Yes,R3turning,211.21,NA,29.99 TRY,1,4.2,14.13
+2012,3,@Konya,@Toys,@Cash on Delivery,T@bl3t,@No,NEW,138.3,5,17.72 TRY,1,4.8,7.88
+2021,12,S@msun,Hom3,na,@Mobile,@No,Returning ,472.37,10,29.0 TRY,2,4.1,NA
+2012,1,@Istanbul,CLOTHING,@Cash on Delivery,@Tablet,@Yes,returning,70.51,NA,9.9 TRY,5,4.0,17.68
+2011,11,NA ,Hom3,credit card,na,No,RETURNING,217.79,7,16.01 TRY,6,4.7,48.16
+2011,5,@Diyarbakir,Toys,E-WALLET,MOBILE,No ,@Returning,267.56,1,36.21 TRY,6,3.9,10.69
+2014,8,@Kayseri,@Home,@Cash on Delivery,Mobile ,Yes ,new,138.0,7,12.83 TRY,1,3.4,15.12
+2010,6,M@l@ty@,@NA,na,MOBILE,Yes ,returning,266.02,5,16.43 TRY,3,3.4,26.52
+2011,12,ANTALYA,Books ,@Cash on Delivery,Mobile ,NO,N3w,243.2,7,32.73 TRY,5,4.9,26.19
+2013,4,ankara,CLOTHING,DEBIT CARD,desktop,Yes ,@New,454.18,3,63.72 TRY,4,3.8,51.76
+2023,6,Gaziantep ,@Beauty,D3bit C@rd,@Mobile,NO,R3turning,197.69,3,12.48 TRY,5,4.9,NA
+2014,2,Ank@r@,BOOKS,@Debit Card,@Desktop,NA ,Returning ,195.99,5,25.59 TRY,2,3.4,37.44
+2022,6,M@l@ty@,books,NA,mobile,No,Returning ,381.57,NA,55.86 TRY,4,3.1,102.37
+2017,6,ANKARA,@Books,DEBIT CARD,Mobil3,YES,R3turning,456.72,8,49.77 TRY,5,4.4,50.49
+2020,10,Izmir,Clothing,credit card,tablet,Yes ,@Returning,303.24,6,34.25 TRY,4,3.8,81.83
+2017,7,eskişehir,@Toys,CREDIT CARD,NA,yes,new,NA,4,38.08 TRY,NA,4.1,72.67
+2015,5,Tr@bzon,B3@uty,DEBIT CARD,NA,No,Returning ,95.87,4,5.66 TRY,NA,3.3,13.65
+2016,9,@Gaziantep,ELECTRONICS,NA,@Tablet,YES,R3turning,209.78,5,20.95 TRY,7,4.3,39.19
+2022,12,M@l@ty@,Clothing ,Debit Card ,Mobil3,yes,RETURNING,66.37,5,9.21 TRY,7,4.3,4.97
+2017,NA,diyarbakir,Electronics ,DEBIT CARD,Tablet ,YES,R3turning,284.49,7,22.95 TRY,4,4.6,76.98
+2020,4,V@n,CLOTHING,na,tablet,Y3s,NEW,318.82,7,29.69 TRY,2,4.7,31.73
+2020,4,Ank@r@,HOME,E-W@ll3t,@Desktop,@Yes,@New,219.68,8,30.77 TRY,2,4.3,61.72
+2014,9,IZMIR,@Beauty,D3bit C@rd,desktop,YES,RETURNING,116.06,NA,13.92 TRY,NA,NA,14.65
+2019,4,Trabzon ,Toys,CREDIT CARD,TABLET,No,N3w,267.65,8,26.64 TRY,5,3.4,18.2
+2021,9,@Bursa,Clothing ,@Credit Card,Mobil3,Yes ,RETURNING,240.01,8,NA TRY,2,3.7,36.25
+2016,10,Ist@nbul,Toys ,E-WALLET,Desktop ,no,NEW,388.7,10,54.54 TRY,6,3.9,41.08
+2017,3,@Adana,NA ,E-Wallet ,TABLET,no,returning,498.92,9,41.41 TRY,2,4.9,144.83
+2014,6,Ank@r@,BOOKS,E-W@ll3t,@Desktop,na,RETURNING,339.51,2,26.73 TRY,6,3.9,88.35
+2011,5,Ad@n@,Clothing,CASH ON DELIVERY,mobile,@NA,RETURNING,479.7,5,NA TRY,2,3.9,9.32
+2011,8,@NA,home,e-wallet,MOBILE,no,@Returning,200.06,NA,22.75 TRY,6,4.7,1.52
+2023,11,@Van,Clothing ,cash on delivery,NA ,No,RETURNING,170.49,9,10.31 TRY,7,4.6,8.53
+2019,3,NA,electronics,cash on delivery,T@bl3t,No ,R3turning,470.96,8,39.12 TRY,2,4.4,121.33
+2018,10,van,BOOKS,debit card,Mobil3,NA,returning,305.72,1,26.17 TRY,6,4.0,36.11
+2010,10,M@l@ty@,Home ,debit card,mobile,NA,@New,478.12,1,69.34 TRY,2,3.9,61.39
+2023,12,konya,Clothing ,Cr3dit C@rd,@Tablet,Y3s,@New,239.55,3,32.78 TRY,6,3.2,44.96
+2012,2,Antalya ,electronics,e-wallet,T@bl3t,Y3s,N3w,446.35,8,NA TRY,4,4.2,13.01
+2018,4,IZMIR,CLOTHING,Cash on Delivery ,D3sktop,@Yes,NEW,140.57,10,19.03 TRY,2,5.0,1.5
+2021,1,Ant@ly@,@Clothing,CREDIT CARD,Desktop ,no,returning,NA,5,NA TRY,1,4.0,43.65
+2019,12,Antalya ,BOOKS,Debit Card ,Mobile ,NO,New ,429.71,4,30.17 TRY,6,3.6,115.26
+2017,2,G@zi@nt3p,Hom3,@Credit Card,Mobil3,no,N3w,481.99,7,64.99 TRY,6,4.5,84.0
+2017,NA,Diy@rb@kir,TOYS,NA,NA ,No ,RETURNING,430.25,1,21.81 TRY,6,3.3,NA
+2016,6,Tr@bzon,@Electronics,na,NA,NA,@Returning,391.48,3,39.87 TRY,6,4.0,84.95
+2014,NA,MALATYA,Toys,CASH ON DELIVERY,Tablet ,No ,@New,496.78,NA,49.66 TRY,7,3.6,NA
+2013,NA,NA,@Toys,NA,MOBILE,no,RETURNING,NA,5,38.5 TRY,5,4.3,58.03
+2020,9,@Bursa,NA,@Debit Card,desktop,Yes ,Returning ,465.74,1,61.2 TRY,6,3.3,55.03
+2013,3,Trabzon ,clothing,CASH ON DELIVERY,@Mobile,no,@New,NA,6,NA TRY,1,4.2,36.1
+2011,6,trabzon,@Toys,E-W@ll3t,@Mobile,YES,Returning ,394.47,4,31.94 TRY,7,4.7,NA
+2010,12,@Adana,NA,CREDIT CARD,Tablet ,YES,returning,442.18,3,32.03 TRY,2,3.7,54.69
+2018,12,Izmir,toys,Cr3dit C@rd,NA,na,returning,72.4,8,9.78 TRY,1,4.6,12.49
+2010,6,@Diyarbakir,Hom3,@E-Wallet,tablet,No,RETURNING,NA,10,51.97 TRY,6,4.1,50.94
+2012,NA,MERSIN,ELECTRONICS,cash on delivery,@Mobile,Yes ,returning,136.17,10,19.54 TRY,3,4.1,23.91
+2017,1,Malatya ,Books,Cash on Delivery ,TABLET,@Yes,New ,446.7,2,64.15 TRY,6,4.0,24.6
+2013,1,Malatya ,@Home,CREDIT CARD,@Mobile,yes,RETURNING,NA,9,33.96 TRY,6,3.2,59.27
+2010,3,@Eskişehir,Clothing,debit card,MOBILE,yes,new,194.7,4,23.02 TRY,3,4.5,50.52
+2018,11,ESKIŞEHIR,Clothing,Debit Card ,TABLET,No,returning,354.03,3,43.96 TRY,3,4.9,NA
+2012,4,G@zi@nt3p,na,credit card,Mobile ,No ,RETURNING,NA,10,21.7 TRY,5,3.1,27.15
+2021,1,@Eskişehir,@Electronics,@NA,na,No ,NA,185.9,3,24.05 TRY,4,3.2,NA
+2014,1,@Eskişehir,Books ,e-wallet,Mobile ,yes,RETURNING,367.69,10,40.19 TRY,2,3.2,60.08
+2011,8,Ankara ,books,D3bit C@rd,@Mobile,No ,@New,487.94,5,49.51 TRY,2,3.8,141.16
+2015,5,@Ankara,Electronics ,E-Wallet ,D3sktop,Y3s,RETURNING,415.0,1,22.82 TRY,1,3.3,122.57
+2015,6,Konya ,BEAUTY,Cash on Delivery ,TABLET,Yes ,New ,426.87,8,51.42 TRY,6,3.0,85.49
+NA,8,V@n,Home ,CASH ON DELIVERY,na,yes,new,152.14,9,13.55 TRY,3,3.7,44.6
+2023,5,@Bursa,@Books,E-Wallet ,Mobil3,yes,New ,238.36,NA,35.19 TRY,NA,3.0,15.43
+2013,3,TRABZON,toys,credit card,Desktop ,YES,returning,NA,2,22.96 TRY,NA,3.5,8.5
+2017,3,G@zi@nt3p,Clothing,C@sh on D3liv3ry,Tablet ,No,NEW,156.33,5,19.03 TRY,6,3.8,15.6
+2017,5,@Eskişehir,Clothing,cash on delivery,DESKTOP,No ,Returning ,NA,3,12.12 TRY,7,3.6,7.85
+2019,12,@Gaziantep,Hom3,E-WALLET,Mobile ,@No,RETURNING,297.48,3,NA TRY,1,3.6,46.27
+NA,3,ESKIŞEHIR,B3@uty,cash on delivery,D3sktop,YES,@Returning,420.48,7,27.44 TRY,4,4.8,19.69
+NA,8,na,@Clothing,CREDIT CARD,Mobile ,yes,N3w,368.55,6,38.03 TRY,7,3.5,109.95
+2021,NA,bursa,Toys,Cash on Delivery ,@Tablet,YES,New ,271.0,2,14.14 TRY,4,4.9,34.2
+2015,9,@Mersin,BOOKS,CREDIT CARD,TABLET,NO,returning,134.71,10,10.05 TRY,3,3.4,37.65
+2013,12,M3rsin,BOOKS,C@sh on D3liv3ry,D3sktop,Y3s,returning,446.53,8,54.15 TRY,4,3.4,106.0
+2011,7,Diy@rb@kir,Toys,DEBIT CARD,tablet,@Yes,@New,236.08,2,16.94 TRY,4,4.4,53.67
+2017,9,ISTANBUL,@Electronics,C@sh on D3liv3ry,D3sktop,no,@New,136.5,4,8.62 TRY,1,3.5,40.26
+2017,12,@Istanbul,HOME,E-W@ll3t,D3sktop,@No,RETURNING,93.64,1,10.05 TRY,5,3.8,NA
+2016,3,KONYA,BEAUTY,@E-Wallet,D3sktop,NA,returning,279.94,5,37.06 TRY,4,3.5,34.18
+2017,4,Ank@r@,HOME,debit card,tablet,Yes ,@Returning,283.77,9,NA TRY,3,4.7,9.74
+2021,6,trabzon,beauty,NA,Mobil3,NO,Returning ,71.62,9,6.48 TRY,2,4.8,15.36
+2017,9,@Samsun,@Beauty,D3bit C@rd,Mobil3,@Yes,na,158.56,5,23.01 TRY,4,3.2,30.45
+2013,3,Ank@r@,Home ,@NA,NA ,@Yes,NEW,201.77,7,19.3 TRY,4,3.1,23.41
+2011,NA,Antalya ,Beauty ,Cr3dit C@rd,T@bl3t,No ,NEW,137.75,7,12.96 TRY,7,3.7,1.21
+2022,11,@Antalya,home,E-Wallet ,NA,@Yes,R3turning,348.34,6,37.87 TRY,6,NA,26.65
+2017,12,mersin,ELECTRONICS,E-WALLET,mobile,No,new,251.51,NA,33.28 TRY,2,3.7,21.53
+2013,7,Trabzon ,clothing,Credit Card ,@Desktop,yes,Returning ,90.72,2,7.84 TRY,6,4.6,10.46
+2012,8,TRABZON,Clothing ,@Cash on Delivery,DESKTOP,No ,RETURNING,154.09,5,10.1 TRY,6,3.2,31.37
+2017,3,ANTALYA,Beauty ,DEBIT CARD,tablet,yes,@Returning,266.0,2,20.0 TRY,1,3.6,7.62
+2013,4,BURSA,@Electronics,E-W@ll3t,@Tablet,no,R3turning,315.67,2,24.99 TRY,5,3.6,78.62
+2019,4,ANKARA,Books,@Cash on Delivery,desktop,no,Returning ,301.45,2,15.19 TRY,6,3.9,46.22
+2013,5,ANTALYA,@Beauty,debit card,@Desktop,@No,new,189.16,3,9.82 TRY,7,4.2,49.6
+2010,2,BURSA,BEAUTY,C@sh on D3liv3ry,na,No,RETURNING,299.54,2,44.07 TRY,4,3.7,62.39
+2013,7,@Van,Electronics ,CREDIT CARD,na,NO,returning,474.08,NA,53.83 TRY,4,4.9,105.42
+2016,NA,M@l@ty@,HOME,D3bit C@rd,DESKTOP,Yes ,@Returning,364.34,5,34.94 TRY,2,4.1,62.78
+2022,2,Ankara ,Books ,E-W@ll3t,tablet,yes,RETURNING,100.69,2,6.68 TRY,6,3.6,24.78
+2013,4,gaziantep,BOOKS,D3bit C@rd,Desktop ,No,@Returning,332.9,10,42.57 TRY,3,5.0,87.2
+2023,7,S@msun,Toys ,CREDIT CARD,Desktop ,na,@Returning,276.17,1,22.67 TRY,6,4.0,20.43
+2015,12,NA ,@NA,NA ,TABLET,Yes ,NEW,386.62,7,38.85 TRY,1,4.2,55.61
+2012,4,@Bursa,@Electronics,Credit Card ,DESKTOP,No ,N3w,149.21,6,16.26 TRY,7,3.3,35.6
+2017,12,VAN,NA,@Credit Card,DESKTOP,Yes ,returning,184.19,1,26.12 TRY,4,3.6,2.7
+2020,1,Adana ,Clothing,Credit Card ,T@bl3t,YES,new,432.51,9,35.96 TRY,NA,4.8,94.88
+2011,6,@Van,NA,@E-Wallet,Mobil3,NA ,NA,198.05,4,NA TRY,7,3.2,NA
+NA,9,Ank@r@,@Electronics,@Cash on Delivery,MOBILE,yes,Returning ,346.3,7,24.32 TRY,NA,NA,18.75
+2021,6,@Istanbul,El3ctronics,@Credit Card,na,@NA,Returning ,206.29,1,20.0 TRY,6,4.6,11.64
+2018,NA,NA,Hom3,cash on delivery,@Mobile,@No,@New,389.13,5,52.86 TRY,7,3.4,16.78
+2020,8,@Istanbul,@Electronics,E-WALLET,@Tablet,na,R3turning,246.16,6,32.27 TRY,4,4.9,34.45
+NA,2,VAN,toys,e-wallet,DESKTOP,@Yes,na,417.73,7,45.7 TRY,2,4.0,23.7
+2020,6,mersin,electronics,Debit Card ,mobile,@Yes,@New,235.01,5,30.46 TRY,NA,4.9,64.77
+NA,9,Ankara ,@Clothing,credit card,NA ,Y3s,Returning ,257.44,8,19.35 TRY,3,3.8,36.6
+2012,9,@Samsun,books,@Credit Card,MOBILE,NO,returning,NA,1,14.63 TRY,5,NA,56.73
+2021,9,@Samsun,Beauty ,@Cash on Delivery,D3sktop,no,New ,389.46,NA,57.5 TRY,2,4.4,77.33
+2011,4,diyarbakir,Books,cash on delivery,@Desktop,No,N3w,58.62,10,8.15 TRY,3,4.6,5.09
+2020,4,@Ankara,Hom3,Credit Card ,@Mobile,Yes ,R3turning,78.59,10,5.07 TRY,6,4.7,NA
+2017,1,@Van,toys,C@sh on D3liv3ry,Desktop ,NA,returning,151.47,7,21.71 TRY,3,4.9,37.64
+2020,9,adana,BEAUTY,@Debit Card,@NA,no,returning,169.22,9,22.71 TRY,5,3.8,35.33
+2023,4,Adana ,Books ,debit card,@Tablet,@No,NA ,156.52,3,20.66 TRY,3,4.1,41.0
+2023,7,Eskişehir ,@Clothing,D3bit C@rd,NA,@No,NEW,454.04,4,66.76 TRY,2,3.2,126.45
+2019,10,Van ,Clothing ,debit card,@Mobile,YES,@New,219.43,6,32.7 TRY,4,4.2,64.48
+2012,10,Diyarbakir ,Electronics ,@E-Wallet,T@bl3t,@No,N3w,279.85,4,NA TRY,4,NA,NA
+NA,1,@Istanbul,Electronics ,NA,T@bl3t,NO,returning,496.88,7,56.56 TRY,6,3.8,128.94
+NA,10,Tr@bzon,toys,CREDIT CARD,TABLET,@No,@New,303.92,8,NA TRY,4,3.8,69.23
+2013,4,trabzon,@Home,e-wallet,@Mobile,@No,RETURNING,189.77,NA,25.15 TRY,5,4.2,47.6
+NA,7,Kayseri ,TOYS,Cash on Delivery ,Mobile ,Yes ,New ,240.07,4,19.97 TRY,5,3.0,40.99
+2013,8,@Gaziantep,toys,E-WALLET,@Mobile,Y3s,returning,495.95,NA,66.43 TRY,1,3.1,25.68
+2015,7,@Van,na,NA,T@bl3t,@No,@New,421.22,5,33.54 TRY,NA,3.4,95.37
+2015,1,@Konya,TOYS,CASH ON DELIVERY,tablet,Yes ,returning,272.93,8,37.25 TRY,2,4.3,42.09
+2021,NA,G@zi@nt3p,Electronics ,CREDIT CARD,mobile,Yes ,returning,247.06,6,33.47 TRY,2,3.6,55.76
+2023,8,@NA,B3@uty,@Cash on Delivery,Desktop ,no,New ,416.87,9,30.83 TRY,5,3.9,98.57
+2011,5,DIYARBAKIR,books,credit card,@Tablet,No,N3w,370.69,9,52.82 TRY,5,4.2,101.39
+NA,12,MERSIN,NA ,NA ,tablet,YES,@Returning,231.82,7,18.15 TRY,4,3.9,1.68
+2021,7,NA ,na,@Credit Card,D3sktop,YES,New ,174.86,10,16.12 TRY,4,3.3,17.43
+2021,11,KONYA,Electronics ,E-WALLET,@Tablet,NA,@New,297.24,10,27.34 TRY,7,3.6,NA
+2022,9,ESKIŞEHIR,clothing,E-WALLET,@Desktop,NO,@New,324.51,5,29.57 TRY,1,3.2,58.42
+2016,NA,Adana ,home,@Debit Card,@Mobile,Yes ,NEW,290.64,6,NA TRY,7,3.1,22.53
+2013,3,Ist@nbul,Beauty ,credit card,@Desktop,@Yes,RETURNING,54.78,9,3.9 TRY,4,4.7,9.83
+2014,5,VAN,clothing,debit card,TABLET,YES,new,56.05,10,4.88 TRY,NA,3.6,4.78
+2010,9,@Gaziantep,toys,DEBIT CARD,DESKTOP,yes,@Returning,415.07,9,22.27 TRY,2,3.3,105.01
+NA,4,IZMIR,Clothing,@Debit Card,@Desktop,No ,N3w,NA,8,30.99 TRY,4,4.8,3.82
+2011,9,G@zi@nt3p,Toys,E-Wallet ,@Tablet,yes,@NA,229.36,10,28.15 TRY,4,3.8,NA
+2012,11,V@n,@Electronics,@Credit Card,tablet,No ,Returning ,347.52,4,46.76 TRY,NA,3.9,70.87
+2012,5,Izmir ,CLOTHING,DEBIT CARD,Desktop ,No ,NA,400.22,3,58.82 TRY,2,4.7,50.37
+2014,1,@Van,ELECTRONICS,E-Wallet ,Mobile ,yes,@New,NA,6,39.53 TRY,2,4.6,131.45
+2017,12,bursa,BEAUTY,@E-Wallet,tablet,yes,RETURNING,313.55,4,43.16 TRY,5,4.5,87.59
+2019,NA,Mersin ,Books ,@Credit Card,D3sktop,Yes ,RETURNING,154.52,9,16.16 TRY,2,4.6,18.34
+2020,8,ANTALYA,beauty,credit card,desktop,NO,@Returning,92.76,10,6.17 TRY,7,3.4,20.36
+2017,6,antalya,NA ,Cr3dit C@rd,@Mobile,NO,R3turning,341.62,10,21.82 TRY,1,3.2,50.42
+2022,6,Gaziantep ,Clothing ,E-Wallet ,desktop,No ,NEW,366.43,9,43.26 TRY,6,4.4,46.77
+2022,8,Tr@bzon,BOOKS,credit card,T@bl3t,Yes ,@New,163.8,4,NA TRY,2,3.7,11.48
+2010,2,samsun,@Beauty,@Credit Card,@Mobile,YES,new,320.45,8,16.04 TRY,7,4.6,54.87
+2020,3,Diy@rb@kir,@Toys,Cr3dit C@rd,Tablet ,Yes ,N3w,260.43,2,24.88 TRY,7,4.9,10.6
+2023,4,Ant@ly@,Toys ,@Cash on Delivery,mobile,Y3s,new,86.27,4,6.01 TRY,3,3.3,NA
+2022,6,G@zi@nt3p,Toys ,E-W@ll3t,NA,No,NA,70.73,4,9.6 TRY,6,4.2,9.28
+2016,4,Eskişehir ,B3@uty,@E-Wallet,T@bl3t,yes,@New,454.3,NA,40.3 TRY,7,3.6,NA
+NA,3,M3rsin,Toys ,cash on delivery,@Mobile,@Yes,returning,308.46,10,NA TRY,4,3.7,74.73
+2018,3,@Van,toys,CREDIT CARD,Mobil3,@No,returning,295.03,7,38.61 TRY,1,4.5,45.72
+2014,11,@Antalya,Toys,Cash on Delivery ,Desktop ,No ,NEW,403.76,7,47.11 TRY,7,3.8,96.78
+2014,10,ADANA,@Books,NA ,D3sktop,yes,na,150.84,8,8.58 TRY,NA,5.0,8.68
+2021,7,Van ,Books,@E-Wallet,tablet,No ,@Returning,58.56,NA,4.64 TRY,3,3.6,8.09
+2019,10,ANTALYA,BOOKS,@E-Wallet,@Mobile,No ,@Returning,373.59,3,21.99 TRY,4,3.7,64.89
+2012,5,TRABZON,B3@uty,D3bit C@rd,Tablet ,@NA,returning,319.16,8,32.25 TRY,2,3.9,70.49
+2022,8,@Gaziantep,NA,Debit Card ,Desktop ,Yes ,NEW,108.92,7,12.34 TRY,4,4.1,25.97
+2013,NA,mersin,BOOKS,@Credit Card,mobile,no,@NA,100.17,2,5.6 TRY,5,3.7,5.5
+2019,NA,kayseri,Clothing ,C@sh on D3liv3ry,Desktop ,Yes ,NEW,331.38,3,16.88 TRY,1,4.9,28.14
+2021,9,ISTANBUL,@Clothing,@Credit Card,D3sktop,No ,R3turning,212.07,7,23.25 TRY,5,3.2,34.98
+2022,2,Izmir ,Hom3,debit card,D3sktop,@No,@New,NA,4,46.71 TRY,3,3.2,46.67
+2015,2,van,@Beauty,Debit Card ,Mobile ,@No,@Returning,118.26,5,8.75 TRY,2,3.3,6.19
+2022,2,S@msun,electronics,Cr3dit C@rd,TABLET,no,R3turning,83.87,4,4.93 TRY,4,3.2,9.35
+2011,4,@NA,beauty,na,Mobil3,Y3s,@Returning,453.07,5,34.05 TRY,7,4.2,130.82
+2021,8,samsun,Clothing ,cash on delivery,Mobile ,NO,@New,175.54,9,10.06 TRY,NA,3.4,15.19
+2017,3,Konya ,HOME,e-wallet,NA,@NA,Returning ,174.35,7,11.31 TRY,3,4.4,24.89
+2010,5,Diyarbakir ,Clothing,Credit Card ,@NA,No ,returning,427.78,5,63.08 TRY,6,3.8,24.56
+2010,NA,S@msun,home,CASH ON DELIVERY,tablet,@No,R3turning,486.29,1,39.31 TRY,1,NA,10.08
+2017,5,Ankara ,@Home,NA,Desktop ,NA,returning,402.3,4,46.62 TRY,1,4.1,57.24
+2023,3,Ankara ,HOME,@E-Wallet,Mobile ,yes,new,82.32,5,7.67 TRY,5,4.9,1.39
+NA,5,antalya,beauty,DEBIT CARD,Mobile ,Y3s,N3w,87.02,9,10.6 TRY,3,4.2,4.01
+2013,12,V@n,BOOKS,Credit Card ,desktop,NO,Returning ,380.53,1,43.01 TRY,6,3.7,28.78
+NA,NA,@Konya,ELECTRONICS,NA,@Desktop,yes,New ,452.33,7,39.0 TRY,7,3.3,86.26
+2014,4,Bursa ,Home ,@Credit Card,@Desktop,@No,RETURNING,341.85,5,21.81 TRY,2,4.7,16.86
+NA,1,Tr@bzon,Books,C@sh on D3liv3ry,NA,Yes ,R3turning,189.82,7,22.63 TRY,1,3.3,39.71
+2020,7,@Van,BOOKS,CASH ON DELIVERY,Desktop ,No ,returning,167.78,4,19.73 TRY,2,NA,24.9
+2012,1,diyarbakir,NA ,Cash on Delivery ,desktop,@No,R3turning,250.85,10,15.85 TRY,4,3.4,29.81
+2017,11,Izmir ,Home ,E-WALLET,D3sktop,YES,@New,296.82,2,23.93 TRY,NA,3.9,8.79
+2023,10,Mersin ,books,cash on delivery,Tablet ,YES,returning,284.91,10,23.95 TRY,6,3.4,29.82
+2013,4,konya,NA ,E-WALLET,desktop,Y3s,N3w,247.62,5,30.51 TRY,2,3.2,37.63
+2019,2,@Trabzon,@Clothing,@Credit Card,desktop,Yes ,R3turning,497.72,5,29.43 TRY,3,NA,59.23
+2014,3,ANKARA,ELECTRONICS,E-Wallet ,Tablet ,Yes ,R3turning,213.23,7,NA TRY,6,NA,17.4
+2023,10,Gaziantep ,ELECTRONICS,DEBIT CARD,Desktop ,@Yes,@Returning,485.75,10,45.82 TRY,6,3.4,141.73
+2023,3,Burs@,B3@uty,e-wallet,MOBILE,no,R3turning,266.62,7,15.4 TRY,6,4.7,26.86
+2012,9,van,NA,@Credit Card,T@bl3t,Yes ,new,498.46,5,43.53 TRY,2,NA,49.11
+2013,11,NA,CLOTHING,@E-Wallet,D3sktop,YES,Returning ,202.04,3,NA TRY,3,3.1,39.73
+2015,12,@Kayseri,electronics,@Debit Card,tablet,@No,@Returning,96.73,4,5.82 TRY,2,4.1,13.57
+2014,8,@Antalya,home,E-W@ll3t,@Tablet,No ,returning,88.53,9,11.17 TRY,6,5.0,8.94
+NA,6,bursa,El3ctronics,debit card,D3sktop,@Yes,NA,228.9,6,11.75 TRY,7,4.2,44.0
+2017,4,ANKARA,books,debit card,Desktop ,@Yes,New ,165.73,2,20.63 TRY,6,4.7,46.91
+2015,6,DIYARBAKIR,clothing,credit card,Tablet ,Yes ,Returning ,498.19,6,28.8 TRY,5,4.0,27.86
+2014,6,Ist@nbul,Beauty ,Credit Card ,MOBILE,no,returning,329.84,7,NA TRY,7,4.7,82.14
+2010,5,@Malatya,@Books,credit card,Tablet ,No,NA,288.06,1,39.36 TRY,6,4.7,34.85
+2012,9,Ankara ,@Books,NA,@Tablet,NO,@New,NA,6,NA TRY,6,NA,20.52
+2016,NA,@Antalya,El3ctronics,@NA,T@bl3t,YES,N3w,493.71,2,51.1 TRY,4,NA,125.28
+2016,8,istanbul,Toys ,E-WALLET,@Desktop,@Yes,NA ,123.95,4,17.78 TRY,4,4.5,17.95
+2010,5,Van ,HOME,Cash on Delivery ,Tablet ,NA,na,358.48,7,29.34 TRY,4,4.5,71.76
+2019,1,IZMIR,Beauty ,@Debit Card,tablet,na,@Returning,316.02,10,24.43 TRY,NA,3.7,2.46
+2011,1,@Izmir,@Beauty,@Cash on Delivery,tablet,no,R3turning,285.0,9,37.83 TRY,6,4.4,16.08
+2019,12,@Gaziantep,na,debit card,@Desktop,@No,RETURNING,492.18,8,46.66 TRY,6,4.3,132.15
+2023,10,Ankara ,TOYS,NA,Mobile ,yes,New ,499.32,4,57.29 TRY,6,4.4,43.82
+2019,NA,antalya,@Clothing,DEBIT CARD,Tablet ,@No,New ,348.1,8,33.18 TRY,1,3.6,20.7
+2018,1,Burs@,ELECTRONICS,e-wallet,Desktop ,No,New ,262.67,10,22.66 TRY,6,4.4,NA
+2018,3,malatya,NA,E-Wallet ,Mobile ,Y3s,R3turning,248.16,4,25.83 TRY,5,3.5,12.64
+2015,4,Istanbul ,NA,CREDIT CARD,Mobile ,No ,new,54.01,6,6.87 TRY,5,3.9,12.45
+2017,1,K@ys3ri,BEAUTY,D3bit C@rd,@Mobile,No,new,373.69,10,53.85 TRY,5,3.1,NA
+NA,NA,ADANA,Electronics ,Debit Card ,MOBILE,NO,NEW,NA,9,26.93 TRY,6,3.9,22.33
+2019,10,ESKIŞEHIR,El3ctronics,C@sh on D3liv3ry,Desktop ,@Yes,N3w,460.16,9,NA TRY,4,4.0,78.65
+2019,4,KAYSERI,ELECTRONICS,D3bit C@rd,TABLET,YES,NEW,215.8,5,25.85 TRY,6,4.0,2.87
+NA,1,SAMSUN,NA ,e-wallet,TABLET,No,@Returning,353.94,3,47.58 TRY,7,3.3,14.92
+2011,9,Diy@rb@kir,electronics,cash on delivery,@Tablet,No,Returning ,244.65,8,31.96 TRY,1,3.7,61.91
+2021,9,@Antalya,clothing,Debit Card ,NA,No,@New,241.61,9,16.37 TRY,5,4.0,38.78
+2017,11,@Mersin,electronics,Debit Card ,MOBILE,NA ,@New,375.87,4,29.85 TRY,3,4.2,2.61
+2017,12,Kayseri ,Toys ,D3bit C@rd,tablet,no,returning,341.97,2,18.4 TRY,6,3.0,66.43
+2020,6,Eskiş3hir,NA ,C@sh on D3liv3ry,@Desktop,@Yes,NEW,314.81,9,30.3 TRY,2,3.3,53.58
+2016,1,V@n,Home ,E-WALLET,desktop,no,@New,351.9,NA,49.47 TRY,5,4.3,9.09
+2011,12,@Konya,TOYS,DEBIT CARD,@Mobile,yes,RETURNING,413.79,1,42.26 TRY,3,3.4,NA
+2013,2,samsun,Books,Credit Card ,@Mobile,YES,new,165.45,5,10.88 TRY,2,5.0,15.73
+2020,NA,Kony@,books,credit card,@Desktop,Y3s,returning,341.95,8,21.61 TRY,5,3.9,22.02
+NA,10,malatya,electronics,cash on delivery,mobile,No,RETURNING,494.89,4,64.58 TRY,1,4.8,9.29
+2016,5,@Ankara,Home ,cash on delivery,D3sktop,Yes ,RETURNING,219.74,3,12.24 TRY,5,NA,45.44
+2016,11,bursa,El3ctronics,na,@Tablet,NO,RETURNING,401.42,9,28.24 TRY,7,NA,103.98
+2011,8,Izmir ,HOME,NA ,Mobile ,Yes ,New ,NA,8,17.28 TRY,4,4.0,27.44
+2010,11,ISTANBUL,clothing,E-WALLET,NA ,na,returning,69.82,7,9.68 TRY,5,3.4,8.25
+2012,9,NA,@Beauty,D3bit C@rd,NA ,No ,N3w,303.79,7,41.46 TRY,7,3.5,43.05
+2010,8,antalya,B3@uty,@Credit Card,Desktop ,No ,new,347.98,4,27.52 TRY,3,3.4,9.98
+2011,9,Antalya ,El3ctronics,CASH ON DELIVERY,na,NO,new,337.42,8,22.5 TRY,1,4.0,35.12
+2018,5,@Istanbul,CLOTHING,E-WALLET,Tablet ,No ,new,208.81,6,25.43 TRY,5,4.3,20.22
+2021,1,ADANA,@NA,e-wallet,@Mobile,@No,returning,419.36,NA,27.55 TRY,2,NA,61.53
+NA,4,Adana ,HOME,E-W@ll3t,TABLET,YES,returning,233.03,9,31.3 TRY,7,3.1,40.15
+2016,6,NA ,B3@uty,D3bit C@rd,Mobil3,YES,Returning ,282.26,8,19.08 TRY,3,3.2,35.39
+2014,9,K@ys3ri,@Beauty,C@sh on D3liv3ry,TABLET,No ,RETURNING,392.93,3,54.02 TRY,5,3.9,55.42
+2022,1,eskişehir,Books,@Cash on Delivery,@Desktop,Yes ,NEW,71.43,6,10.71 TRY,5,3.9,13.48
+2016,2,Mersin ,CLOTHING,CREDIT CARD,MOBILE,YES,new,366.72,1,30.26 TRY,2,4.9,39.12
+2010,12,eskişehir,Clothing ,E-W@ll3t,@Tablet,No ,@Returning,442.97,9,30.59 TRY,6,4.3,98.54
+2023,3,BURSA,B3@uty,Credit Card ,Mobile ,Yes ,RETURNING,122.2,5,NA TRY,6,4.1,12.25
+2017,2,V@n,Beauty ,E-W@ll3t,Desktop ,@No,Returning ,NA,10,35.65 TRY,4,4.5,NA
+2014,9,BURSA,BEAUTY,@Credit Card,D3sktop,@Yes,na,NA,8,25.05 TRY,NA,5.0,20.42
+2012,7,Bursa ,Books,E-WALLET,TABLET,YES,@NA,439.86,10,37.16 TRY,NA,3.5,NA
+2013,12,bursa,beauty,CREDIT CARD,desktop,Yes ,@Returning,395.07,3,53.08 TRY,2,3.4,76.63
+2022,3,@Van,El3ctronics,debit card,Mobile ,@Yes,N3w,139.87,1,13.87 TRY,2,3.6,31.3
+2014,10,Adana ,@Beauty,@E-Wallet,Desktop ,na,RETURNING,157.39,10,20.73 TRY,3,3.6,8.78
+2013,11,Bursa ,home,@Debit Card,@Tablet,No,new,244.62,4,21.53 TRY,4,3.2,71.51
+2017,NA,konya,books,@Cash on Delivery,Tablet ,@No,NEW,200.67,NA,26.4 TRY,1,4.5,17.38
+NA,3,ANTALYA,toys,CREDIT CARD,@Mobile,YES,RETURNING,498.85,1,36.57 TRY,3,NA,49.37
+2014,10,malatya,Beauty ,@Debit Card,@Mobile,yes,RETURNING,250.06,5,20.92 TRY,5,NA,1.82
+2012,9,Istanbul ,@Beauty,Cr3dit C@rd,mobile,No ,New ,311.74,1,27.48 TRY,7,3.6,29.56
+NA,8,Bursa ,El3ctronics,D3bit C@rd,@Desktop,@No,NEW,360.45,8,20.3 TRY,5,3.9,81.63
+2011,5,MERSIN,NA ,@Cash on Delivery,Desktop ,@Yes,R3turning,270.7,5,20.08 TRY,1,3.4,29.43
+2016,11,IZMIR,@Home,NA,TABLET,yes,Returning ,98.35,8,10.34 TRY,5,4.8,15.79
+2017,2,Ad@n@,@Clothing,@Debit Card,TABLET,Yes ,@New,128.0,7,12.75 TRY,1,3.8,38.0
+2022,8,Mersin ,Books ,CASH ON DELIVERY,@Desktop,@Yes,returning,290.17,NA,28.02 TRY,5,NA,9.22
+2016,NA,M@l@ty@,@NA,E-Wallet ,DESKTOP,NO,Returning ,76.31,3,8.7 TRY,5,3.8,8.87
+2010,11,@Gaziantep,@Beauty,E-Wallet ,D3sktop,Y3s,new,118.76,5,11.89 TRY,7,4.4,25.83
+2013,1,Antalya ,TOYS,Cash on Delivery ,NA,Yes ,N3w,169.1,6,18.75 TRY,5,4.4,NA
+2022,11,Diyarbakir ,home,Credit Card ,na,YES,New ,136.36,7,8.93 TRY,5,4.0,21.99
+2010,4,V@n,Books ,E-Wallet ,Mobile ,@No,Returning ,176.25,8,20.36 TRY,3,4.8,46.97
+2021,1,antalya,toys,E-W@ll3t,NA,no,N3w,285.32,1,24.85 TRY,7,3.6,50.77
+2016,4,ISTANBUL,@Toys,@Credit Card,@Desktop,@No,N3w,475.51,6,25.01 TRY,4,4.0,99.54
+2018,11,Diyarbakir ,B3@uty,C@sh on D3liv3ry,Tablet ,Yes ,@Returning,332.03,9,16.92 TRY,3,4.2,54.59
+2012,10,NA,clothing,DEBIT CARD,desktop,@No,new,414.36,6,51.61 TRY,7,4.6,33.71
+2016,8,Kony@,El3ctronics,e-wallet,MOBILE,@No,RETURNING,377.06,5,55.96 TRY,NA,3.4,102.73
+2019,12,istanbul,HOME,@Cash on Delivery,TABLET,YES,new,177.07,7,15.2 TRY,7,4.8,51.97
+NA,2,ADANA,electronics,NA ,desktop,Yes ,RETURNING,184.51,5,15.88 TRY,6,4.9,32.04
+2016,NA,@Malatya,clothing,Cr3dit C@rd,mobile,No ,@New,338.58,7,35.73 TRY,5,5.0,45.8
+2011,8,Gaziantep ,CLOTHING,@Credit Card,mobile,No,new,160.12,4,15.68 TRY,5,4.6,34.83
+2012,7,Burs@,electronics,@NA,TABLET,NO,N3w,155.27,8,16.19 TRY,6,3.2,35.3
+2015,1,ANKARA,electronics,E-Wallet ,NA ,no,@Returning,416.14,10,54.72 TRY,2,NA,56.7
+2014,7,Ist@nbul,BEAUTY,E-W@ll3t,Mobil3,NO,R3turning,324.43,4,30.56 TRY,3,4.4,94.25
+2010,12,Ank@r@,electronics,Credit Card ,Desktop ,no,NEW,271.72,1,14.44 TRY,6,4.7,79.67
+2013,5,@Istanbul,CLOTHING,E-Wallet ,Tablet ,Y3s,R3turning,489.58,5,36.14 TRY,NA,3.8,143.39
+2010,11,Antalya ,Beauty ,D3bit C@rd,Tablet ,NO,returning,499.52,2,NA TRY,7,NA,84.58
+NA,NA,diyarbakir,electronics,credit card,@Desktop,@No,@Returning,NA,10,23.02 TRY,4,4.9,4.28
+2013,1,Mersin ,Books,CREDIT CARD,Desktop ,YES,Returning ,468.13,4,40.52 TRY,6,3.5,66.12
+2020,8,KAYSERI,@Books,cash on delivery,@NA,yes,New ,140.51,8,19.89 TRY,7,4.8,36.07
+2019,10,Ankara ,Electronics ,NA ,Tablet ,@Yes,N3w,435.26,4,52.35 TRY,2,3.2,31.37
+2021,8,@Samsun,@Beauty,C@sh on D3liv3ry,Tablet ,@No,NEW,NA,5,NA TRY,1,3.5,50.93
+2012,9,kayseri,Clothing,Credit Card ,Tablet ,No,N3w,238.52,7,18.19 TRY,4,4.1,62.25
+2018,9,Diy@rb@kir,@Books,CASH ON DELIVERY,@Tablet,yes,R3turning,160.17,NA,17.11 TRY,5,NA,NA
+2018,9,Adana ,BEAUTY,Cash on Delivery ,TABLET,No,R3turning,299.31,8,27.67 TRY,3,3.9,NA
+2014,10,DIYARBAKIR,electronics,@E-Wallet,tablet,NO,NA,87.34,2,11.77 TRY,7,4.8,3.19
+2022,2,Malatya ,CLOTHING,E-WALLET,DESKTOP,Y3s,@New,253.48,9,21.31 TRY,1,4.1,50.27
+2016,5,BURSA,Hom3,Cash on Delivery ,Mobile ,Yes ,NA,NA,2,NA TRY,6,3.2,113.17
+2023,3,kayseri,home,cash on delivery,NA,@Yes,N3w,353.91,NA,28.99 TRY,2,3.2,NA
+2019,4,Malatya ,@Clothing,cash on delivery,DESKTOP,no,@NA,179.51,7,14.34 TRY,4,3.5,31.81
+2015,7,Eskiş3hir,clothing,debit card,DESKTOP,NA ,@Returning,377.12,1,28.05 TRY,2,3.8,105.77
+2017,NA,@Kayseri,@Toys,Cash on Delivery ,Mobil3,No ,New ,323.22,9,19.63 TRY,6,3.6,0.52
+2010,10,@Gaziantep,electronics,cash on delivery,Mobile ,@No,@Returning,347.72,9,42.87 TRY,4,4.8,78.06
+2015,9,G@zi@nt3p,HOME,Cr3dit C@rd,@Mobile,Yes ,N3w,88.81,9,11.48 TRY,1,3.8,24.51
+2023,4,GAZIANTEP,electronics,CASH ON DELIVERY,@Tablet,No ,R3turning,434.56,7,NA TRY,3,4.9,68.57
+2018,2,ANTALYA,CLOTHING,@NA,mobile,Yes ,NA,279.42,3,26.66 TRY,5,4.8,41.28
+2018,NA,@Eskişehir,Electronics ,DEBIT CARD,desktop,No,returning,406.03,3,29.15 TRY,3,3.2,89.04
+2011,6,istanbul,Books,debit card,DESKTOP,@Yes,NEW,453.75,2,28.79 TRY,5,4.2,90.53
+2020,8,MERSIN,HOME,Cash on Delivery ,TABLET,@No,New ,303.47,7,39.27 TRY,7,4.6,16.4
+2021,NA,K@ys3ri,books,DEBIT CARD,tablet,No,NEW,100.03,2,10.6 TRY,7,4.6,20.89
+2020,1,malatya,Toys ,E-WALLET,DESKTOP,yes,@New,NA,2,NA TRY,2,4.6,43.24
+2020,12,gaziantep,home,DEBIT CARD,tablet,@No,N3w,324.65,3,45.06 TRY,2,3.2,20.23
+2013,1,ankara,home,e-wallet,desktop,NA,@New,468.69,6,NA TRY,NA,4.2,74.13
+2020,3,ankara,@Home,Debit Card ,T@bl3t,NO,New ,422.62,8,49.93 TRY,3,3.7,119.06
+2014,9,Ad@n@,Clothing ,cash on delivery,T@bl3t,@No,N3w,NA,6,15.69 TRY,6,3.8,NA
+2017,9,@Gaziantep,@Home,CASH ON DELIVERY,@Tablet,@No,New ,308.3,10,30.07 TRY,3,NA,28.88
+2016,5,antalya,Hom3,Cash on Delivery ,NA,@No,NEW,219.15,1,NA TRY,NA,4.4,31.14
+2012,NA,ANKARA,El3ctronics,E-W@ll3t,Tablet ,No ,new,161.08,8,20.5 TRY,NA,4.9,31.44
+2014,1,NA,Clothing ,credit card,@Mobile,No ,N3w,153.54,2,15.03 TRY,6,4.3,37.69
+2015,2,Malatya ,B3@uty,Credit Card ,Tablet ,@NA,R3turning,418.88,10,50.3 TRY,4,4.7,39.55
+2012,8,Konya ,CLOTHING,E-W@ll3t,@Desktop,YES,@Returning,171.9,9,23.83 TRY,6,4.0,46.07
+2014,9,Ist@nbul,NA ,@Credit Card,Tablet ,No ,RETURNING,268.27,6,21.48 TRY,7,3.8,21.19
+2012,10,@Antalya,Home ,@Credit Card,@Mobile,@No,R3turning,284.24,9,36.49 TRY,3,NA,27.31
+2017,12,adana,Clothing ,E-Wallet ,@Tablet,yes,R3turning,308.4,9,26.38 TRY,2,4.3,35.76
+2012,1,ADANA,ELECTRONICS,e-wallet,mobile,yes,NEW,308.48,9,45.95 TRY,2,NA,82.07
+2013,3,samsun,BEAUTY,Cash on Delivery ,NA ,@Yes,N3w,380.68,2,37.43 TRY,5,3.3,72.0
+2010,6,Eskişehir ,@Beauty,CASH ON DELIVERY,MOBILE,@No,new,413.05,8,36.8 TRY,1,3.7,82.92
+2021,9,Ankara ,TOYS,C@sh on D3liv3ry,DESKTOP,No,R3turning,362.74,8,53.17 TRY,3,3.3,74.05
+2011,12,@Trabzon,Clothing ,E-Wallet ,mobile,yes,Returning ,191.49,6,10.73 TRY,2,5.0,35.54
+2022,6,@Ankara,@Books,DEBIT CARD,@Tablet,Yes ,Returning ,379.86,9,NA TRY,7,4.1,80.42
+2017,2,@Adana,TOYS,CREDIT CARD,TABLET,Yes ,NEW,265.97,2,36.76 TRY,3,4.6,26.51
+NA,9,VAN,clothing,cash on delivery,@Mobile,@Yes,new,105.77,7,15.61 TRY,7,4.5,17.59
+2020,9,gaziantep,home,C@sh on D3liv3ry,D3sktop,YES,NEW,172.34,5,25.69 TRY,7,4.2,35.67
+2016,7,Konya ,Beauty ,CASH ON DELIVERY,mobile,yes,new,51.75,9,7.61 TRY,NA,3.8,2.39
+2015,7,Ist@nbul,@Beauty,E-Wallet ,@Tablet,@Yes,New ,453.64,NA,26.89 TRY,7,3.1,106.96
+2011,4,@Ankara,@Beauty,CREDIT CARD,T@bl3t,YES,NA,118.09,8,NA TRY,1,NA,13.74
+2018,12,Eskişehir ,beauty,Credit Card ,@Desktop,Y3s,RETURNING,268.62,2,33.83 TRY,4,4.4,72.18
+2019,4,KONYA,books,cash on delivery,mobile,Yes ,New ,372.05,2,35.53 TRY,1,3.3,NA
+2016,NA,MERSIN,B3@uty,Cr3dit C@rd,MOBILE,NO,NEW,465.19,1,51.65 TRY,3,4.1,117.62
+2011,6,M3rsin,CLOTHING,E-Wallet ,@Tablet,na,NEW,398.82,4,27.93 TRY,2,3.4,76.88
+2018,7,DIYARBAKIR,books,E-WALLET,mobile,yes,Returning ,100.24,9,14.57 TRY,6,NA,18.2
+2022,4,Kayseri ,B3@uty,@Cash on Delivery,@Desktop,NO,R3turning,NA,8,33.38 TRY,1,3.2,NA
+2013,1,Kayseri ,Clothing,@Debit Card,MOBILE,no,@New,493.68,1,59.31 TRY,5,3.8,32.71
+2011,11,izmir,CLOTHING,Cr3dit C@rd,T@bl3t,yes,Returning ,419.97,3,54.54 TRY,6,3.1,102.21
+2022,12,@Kayseri,B3@uty,@E-Wallet,TABLET,No,returning,85.04,5,9.9 TRY,3,4.3,15.41
+2011,3,Antalya ,BOOKS,Debit Card ,NA,NO,@NA,397.66,8,21.47 TRY,5,3.7,NA
+2016,11,NA,Books,CREDIT CARD,@Desktop,@No,returning,189.73,6,23.02 TRY,6,4.9,6.62
+2014,6,adana,B3@uty,CREDIT CARD,tablet,No,R3turning,473.42,5,45.12 TRY,NA,4.4,8.02
+2014,12,van,books,E-Wallet ,Mobile ,no,N3w,182.81,9,16.68 TRY,7,4.8,37.24
+2020,4,Burs@,El3ctronics,cash on delivery,desktop,No,@New,310.98,8,35.81 TRY,3,3.8,39.5
+2011,12,MERSIN,NA,@E-Wallet,tablet,yes,@Returning,158.7,6,17.22 TRY,4,3.2,39.57
+NA,7,@Diyarbakir,@Beauty,Credit Card ,MOBILE,yes,R3turning,409.97,4,31.97 TRY,7,4.8,105.38
+NA,12,konya,@Toys,CASH ON DELIVERY,TABLET,NO,na,NA,3,49.19 TRY,5,3.7,84.53
+2022,12,VAN,clothing,NA,TABLET,@Yes,N3w,77.54,4,4.35 TRY,4,4.8,0.98
+2011,2,Malatya ,CLOTHING,Credit Card ,mobile,YES,NEW,244.58,9,12.49 TRY,3,4.2,NA
+2010,NA,bursa,@NA,Cr3dit C@rd,Mobil3,no,@New,420.06,5,33.9 TRY,4,4.5,13.44
+2014,3,ANKARA,Toys,NA,Mobile ,@Yes,returning,373.92,4,40.15 TRY,2,3.9,108.41
+2019,8,Kony@,home,Cr3dit C@rd,desktop,@Yes,@Returning,446.99,7,58.41 TRY,7,3.1,94.61
+2020,NA,NA ,na,credit card,MOBILE,NA ,NEW,194.02,NA,11.72 TRY,NA,3.9,37.13
+2012,4,IZMIR,Toys ,na,@Tablet,@No,New ,120.45,10,11.63 TRY,2,4.9,23.47
+2010,8,samsun,home,NA,Mobile ,yes,New ,398.22,5,23.24 TRY,4,3.2,2.42
+2023,7,ISTANBUL,NA,Debit Card ,D3sktop,Y3s,@New,81.64,5,5.69 TRY,3,3.9,16.87
+2016,11,@Mersin,@NA,D3bit C@rd,T@bl3t,@Yes,NA,415.51,4,42.96 TRY,7,4.3,66.44
+2019,2,NA,home,cash on delivery,MOBILE,@Yes,Returning ,133.08,4,18.16 TRY,4,3.1,19.72
+2011,2,Eskişehir ,@Toys,C@sh on D3liv3ry,DESKTOP,no,Returning ,438.32,NA,49.52 TRY,2,3.9,60.97
+2015,6,mersin,El3ctronics,Credit Card ,@Mobile,Y3s,RETURNING,295.5,1,33.31 TRY,6,NA,5.86
+2010,8,Diyarbakir ,HOME,DEBIT CARD,tablet,YES,N3w,321.34,3,42.58 TRY,6,4.8,37.01
+2014,9,@Diyarbakir,Toys,E-WALLET,TABLET,No ,@Returning,72.59,7,9.93 TRY,4,3.3,7.92
+2023,NA,@Kayseri,@Electronics,Cr3dit C@rd,Tablet ,YES,N3w,293.86,3,23.07 TRY,5,3.5,25.84
+NA,5,bursa,Toys,CREDIT CARD,@Mobile,NA,@New,417.75,4,50.05 TRY,1,4.5,20.93
+2013,12,M3rsin,@Clothing,C@sh on D3liv3ry,NA ,Yes ,R3turning,193.3,8,12.92 TRY,7,NA,41.51
+2011,5,ANTALYA,toys,DEBIT CARD,MOBILE,no,@New,452.51,NA,59.74 TRY,NA,4.2,41.34
+2015,4,NA,NA,Cr3dit C@rd,desktop,NA ,returning,308.59,7,30.14 TRY,NA,4.7,18.45
+2017,10,izmir,@Beauty,NA,desktop,YES,NA,499.76,2,74.64 TRY,5,3.4,39.45
+2020,6,Diy@rb@kir,TOYS,Debit Card ,MOBILE,Y3s,@Returning,459.92,6,67.78 TRY,5,3.5,31.42
+2022,9,VAN,NA,Cr3dit C@rd,@Desktop,NO,@New,302.99,1,24.83 TRY,3,4.5,61.28
+2010,3,Ank@r@,clothing,D3bit C@rd,Tablet ,NO,Returning ,266.37,NA,31.63 TRY,5,3.8,NA
+2023,6,@Mersin,@Electronics,CASH ON DELIVERY,MOBILE,No,RETURNING,252.69,3,21.27 TRY,NA,4.9,75.16
+2019,4,K@ys3ri,CLOTHING,credit card,@Desktop,YES,@New,470.09,10,66.5 TRY,NA,4.7,37.42
+NA,10,@Eskişehir,Toys ,C@sh on D3liv3ry,MOBILE,Y3s,new,418.23,4,26.78 TRY,7,4.7,38.15
+2010,5,ADANA,beauty,credit card,MOBILE,Yes ,@New,377.58,7,26.74 TRY,6,4.2,11.4
+2022,9,@Eskişehir,beauty,E-Wallet ,desktop,No,NA,414.88,8,60.38 TRY,2,3.4,49.07
+2019,7,@NA,electronics,CREDIT CARD,MOBILE,@Yes,New ,384.09,4,35.87 TRY,1,3.3,70.11
+2022,9,TRABZON,Toys ,Cr3dit C@rd,TABLET,Y3s,N3w,340.94,2,44.72 TRY,1,3.3,5.46
+2011,7,adana,CLOTHING,@E-Wallet,D3sktop,@Yes,@New,232.61,4,20.53 TRY,2,4.5,14.39
+2012,7,Van ,Clothing,D3bit C@rd,NA,na,R3turning,102.25,8,8.87 TRY,3,4.1,28.42
+2013,1,Gaziantep ,na,E-WALLET,Mobile ,@No,na,358.92,NA,40.38 TRY,NA,3.6,3.55
+2013,6,ISTANBUL,@Toys,Cash on Delivery ,Tablet ,NO,@Returning,87.98,2,8.58 TRY,5,3.5,17.66
+2011,8,Samsun ,Books ,@Cash on Delivery,Tablet ,No,@New,295.0,1,15.12 TRY,4,4.7,51.3
+2020,9,G@zi@nt3p,na,Cr3dit C@rd,@Desktop,yes,R3turning,201.37,8,11.29 TRY,1,4.9,49.79
+NA,11,Trabzon ,BEAUTY,Cash on Delivery ,Desktop ,Yes ,N3w,450.26,6,42.38 TRY,5,3.9,58.22
+2018,12,K@ys3ri,Hom3,NA ,TABLET,No,@Returning,142.12,9,15.62 TRY,5,3.6,41.11
+2016,2,KONYA,Clothing,C@sh on D3liv3ry,Tablet ,YES,NEW,321.76,1,32.41 TRY,1,3.9,96.01
+2017,NA,@Mersin,na,E-WALLET,Desktop ,No ,@NA,314.55,4,26.67 TRY,1,3.4,10.49
+2010,3,Mersin ,B3@uty,debit card,desktop,No ,@Returning,335.51,5,33.22 TRY,2,4.0,NA
+NA,5,Diyarbakir ,Toys,e-wallet,tablet,no,NEW,420.52,10,51.5 TRY,NA,3.2,50.05
+2020,6,Tr@bzon,Hom3,debit card,@Desktop,Y3s,new,101.42,10,10.46 TRY,4,3.9,26.16
+2015,3,@Istanbul,HOME,debit card,desktop,yes,returning,471.66,8,47.27 TRY,3,3.4,108.07
+2013,5,VAN,electronics,debit card,Mobile ,Y3s,new,320.28,7,29.0 TRY,NA,3.2,11.37
+2020,NA,ANKARA,NA ,E-Wallet ,@Desktop,yes,returning,94.06,8,6.35 TRY,4,4.7,13.89
+2022,9,adana,@Electronics,CASH ON DELIVERY,@Tablet,Yes ,N3w,58.42,3,7.0 TRY,6,4.8,3.35
+2014,6,@NA,clothing,E-Wallet ,na,@Yes,@New,221.52,4,21.45 TRY,2,4.6,43.61
+NA,3,Ank@r@,@Beauty,C@sh on D3liv3ry,@Desktop,YES,Returning ,62.33,4,4.85 TRY,7,4.8,6.78
+2013,3,samsun,Books,@Cash on Delivery,@Desktop,no,na,291.1,2,33.25 TRY,4,3.7,26.89
+2013,7,VAN,BOOKS,NA ,mobile,no,returning,311.51,7,NA TRY,2,3.4,53.37
+NA,10,Konya ,TOYS,credit card,NA,YES,NEW,344.5,5,30.03 TRY,4,3.1,NA
+NA,9,ANKARA,CLOTHING,Credit Card ,desktop,No ,N3w,291.46,3,19.16 TRY,1,3.1,11.48
+2013,8,malatya,NA,@Credit Card,Desktop ,@Yes,@New,337.6,2,45.84 TRY,6,4.6,97.46
+2016,11,Ad@n@,Clothing,@E-Wallet,tablet,NO,RETURNING,263.51,5,37.26 TRY,NA,4.3,40.18
+NA,5,ANKARA,HOME,CREDIT CARD,D3sktop,NA,New ,NA,4,24.01 TRY,2,4.5,63.4
+2013,11,Ist@nbul,Hom3,credit card,mobile,No ,returning,300.92,3,26.01 TRY,2,3.8,69.13
+2020,7,NA,@Toys,cash on delivery,T@bl3t,Yes ,Returning ,279.6,5,18.69 TRY,1,4.8,25.42
+2018,11,@Gaziantep,@Clothing,CREDIT CARD,mobile,@No,new,403.85,2,54.06 TRY,6,4.9,34.1
+2023,2,Trabzon ,Toys ,E-Wallet ,TABLET,@Yes,new,174.82,10,12.5 TRY,2,4.6,13.04
+2022,3,@Van,@NA,debit card,@NA,Yes ,RETURNING,392.79,1,24.08 TRY,4,3.1,22.04
+2022,12,Diy@rb@kir,@Clothing,credit card,desktop,yes,returning,119.8,6,6.72 TRY,3,3.1,4.29
+2023,4,Ant@ly@,Clothing ,C@sh on D3liv3ry,Desktop ,yes,N3w,69.8,7,10.08 TRY,5,4.7,4.28
+2014,4,Malatya ,@Home,C@sh on D3liv3ry,T@bl3t,Y3s,NA ,NA,4,16.24 TRY,6,4.5,17.8
+2010,11,ANTALYA,ELECTRONICS,E-Wallet ,NA,No ,N3w,144.91,10,21.35 TRY,2,3.9,31.88
+2011,7,Konya ,HOME,CASH ON DELIVERY,tablet,@No,NEW,55.01,9,5.92 TRY,4,3.7,12.62
+2020,7,Mersin ,Clothing ,e-wallet,DESKTOP,no,N3w,339.98,7,41.0 TRY,1,3.4,NA
+2018,3,gaziantep,electronics,NA ,NA ,Y3s,NEW,294.32,4,42.61 TRY,4,4.6,52.64
+2021,12,adana,ELECTRONICS,@E-Wallet,D3sktop,NO,R3turning,437.61,10,63.48 TRY,1,3.9,118.14
+2022,12,Diy@rb@kir,Home ,CASH ON DELIVERY,DESKTOP,No,new,64.23,2,8.46 TRY,2,3.5,0.81
+2013,3,@Van,B3@uty,@E-Wallet,T@bl3t,yes,R3turning,318.01,6,15.94 TRY,4,5.0,44.15
+2014,3,van,Hom3,@Credit Card,@Desktop,yes,@Returning,236.52,7,20.37 TRY,3,4.9,4.07
+2013,4,V@n,Books,@Debit Card,Tablet ,Y3s,N3w,378.86,8,31.7 TRY,NA,4.8,38.46
+2023,9,Izmir ,@Electronics,debit card,Desktop ,no,N3w,NA,10,42.04 TRY,1,3.4,16.15
+2010,3,@Adana,@Books,E-Wallet ,desktop,@No,Returning ,350.32,8,32.89 TRY,6,5.0,49.71
+2015,12,S@msun,beauty,E-W@ll3t,@NA,@No,N3w,196.38,9,23.93 TRY,NA,4.6,42.35
+2016,11,Ist@nbul,@Books,E-W@ll3t,@Mobile,@No,N3w,305.35,1,30.82 TRY,6,3.1,7.05
+2016,6,Malatya ,home,@Debit Card,@Mobile,No ,NEW,NA,6,9.72 TRY,1,NA,14.71
+2010,3,Ank@r@,@Home,@Cash on Delivery,@NA,NA,@NA,399.97,5,29.56 TRY,7,NA,71.91
+2012,12,KAYSERI,CLOTHING,@Cash on Delivery,tablet,@Yes,New ,245.63,3,29.49 TRY,4,3.2,13.45
+2018,4,@Eskişehir,toys,@NA,@Tablet,NO,new,452.98,10,45.28 TRY,4,3.9,131.01
+2019,6,Diyarbakir ,Beauty ,debit card,Desktop ,NA,Returning ,369.58,NA,18.53 TRY,1,4.1,96.98
+2017,6,Samsun ,beauty,Debit Card ,@Mobile,@Yes,new,403.9,8,51.55 TRY,NA,4.0,99.31
+2021,11,MERSIN,TOYS,e-wallet,mobile,Yes ,NA,83.42,4,8.31 TRY,7,3.0,5.98
+2013,1,@Istanbul,beauty,cash on delivery,Tablet ,Y3s,New ,488.97,7,34.92 TRY,1,3.8,91.35
+NA,7,@Van,Toys,credit card,D3sktop,No ,New ,260.16,8,20.34 TRY,NA,3.5,52.41
+2019,4,Bursa ,Electronics ,Debit Card ,Desktop ,Y3s,na,384.92,5,38.62 TRY,3,4.0,74.4
+2014,7,Ank@r@,Hom3,Credit Card ,mobile,Y3s,RETURNING,388.14,10,52.04 TRY,6,4.9,74.04
+NA,11,MALATYA,Toys,cash on delivery,na,NA ,N3w,NA,6,38.09 TRY,5,4.5,NA
+2014,6,na,toys,Cr3dit C@rd,@Mobile,@No,@Returning,205.32,6,14.07 TRY,1,4.9,21.85
+2014,4,van,beauty,DEBIT CARD,@Desktop,No ,Returning ,NA,8,NA TRY,3,3.8,6.53
+2022,4,Konya ,BOOKS,@Cash on Delivery,@Desktop,YES,New ,354.51,4,23.63 TRY,5,4.0,79.04
+2014,10,GAZIANTEP,TOYS,credit card,TABLET,yes,new,182.07,7,16.29 TRY,6,3.6,25.25
+2011,2,M@l@ty@,Clothing ,E-WALLET,na,No ,N3w,454.94,7,50.24 TRY,NA,3.1,92.14
+2020,6,bursa,@Beauty,debit card,desktop,No ,N3w,370.7,NA,36.5 TRY,2,NA,49.87
+2013,5,ADANA,Toys ,E-Wallet ,@Desktop,no,new,232.23,10,34.07 TRY,4,4.0,60.43
+2017,4,Bursa ,@Clothing,Debit Card ,Tablet ,@No,@New,300.71,3,35.42 TRY,3,4.7,77.93
+2018,10,Tr@bzon,@Books,DEBIT CARD,Tablet ,No,R3turning,183.78,6,17.48 TRY,6,4.6,12.22
+NA,2,Eskişehir ,El3ctronics,Debit Card ,NA,@No,Returning ,491.26,6,NA TRY,2,4.4,NA
+2019,12,@NA,Clothing,@Cash on Delivery,Mobil3,YES,New ,116.25,8,11.83 TRY,4,3.3,11.81
+2014,8,NA,home,@Cash on Delivery,Mobile ,@No,Returning ,169.66,8,23.59 TRY,4,3.1,12.03
+2019,9,na,Toys,@Credit Card,@Tablet,NO,R3turning,204.02,8,19.79 TRY,5,NA,30.3
+2019,6,ESKIŞEHIR,electronics,E-W@ll3t,DESKTOP,no,Returning ,330.15,1,38.37 TRY,3,3.8,8.1
+2022,4,Kayseri ,books,@Debit Card,mobile,NO,Returning ,159.98,4,8.22 TRY,1,4.2,11.42
+2021,4,S@msun,@Home,C@sh on D3liv3ry,Tablet ,@Yes,New ,286.51,3,NA TRY,6,3.6,NA
+2013,8,malatya,El3ctronics,D3bit C@rd,@Tablet,YES,new,237.35,6,33.1 TRY,3,3.5,32.26
+2022,10,trabzon,Beauty ,CASH ON DELIVERY,Desktop ,yes,@Returning,375.48,1,NA TRY,7,4.1,74.42
+2013,12,KAYSERI,@Books,D3bit C@rd,@Desktop,NO,New ,82.77,10,5.27 TRY,1,4.2,24.39
+2014,7,@Gaziantep,@Electronics,NA ,@Mobile,Y3s,@Returning,249.44,NA,24.87 TRY,6,3.5,63.75
+2017,NA,Istanbul ,CLOTHING,@Debit Card,TABLET,@Yes,N3w,207.52,7,21.42 TRY,5,3.2,24.23
+2010,8,@Bursa,BEAUTY,Cr3dit C@rd,Tablet ,NO,NEW,456.02,NA,58.96 TRY,6,4.6,9.35
+2021,11,@Istanbul,@Clothing,CREDIT CARD,Mobil3,No ,na,134.73,5,13.54 TRY,7,3.9,NA
+2015,1,Malatya ,BEAUTY,E-Wallet ,T@bl3t,YES,RETURNING,395.1,3,39.0 TRY,6,4.0,103.77
+2011,8,Malatya ,Electronics ,Credit Card ,Tablet ,no,RETURNING,NA,NA,45.34 TRY,2,4.3,3.16
+2022,5,@Diyarbakir,ELECTRONICS,cash on delivery,@Mobile,NO,New ,NA,2,33.79 TRY,6,3.4,16.31
+2012,6,ESKIŞEHIR,Home ,DEBIT CARD,NA,Y3s,New ,451.45,2,45.84 TRY,3,4.3,76.24
+2022,7,Kony@,home,NA ,Mobil3,No ,@New,56.06,1,4.95 TRY,5,4.4,NA
+2020,6,Diyarbakir ,Beauty ,credit card,Tablet ,yes,NEW,346.5,10,35.3 TRY,3,4.0,58.03
+2021,7,konya,@Clothing,cash on delivery,T@bl3t,@Yes,N3w,141.5,8,8.76 TRY,4,3.0,22.5
+2013,3,DIYARBAKIR,B3@uty,CREDIT CARD,DESKTOP,No ,returning,490.58,7,NA TRY,6,3.0,62.6
+2013,12,ADANA,Home ,C@sh on D3liv3ry,Tablet ,Yes ,NEW,402.89,8,33.34 TRY,3,NA,120.23
+2013,3,@Diyarbakir,BOOKS,E-W@ll3t,D3sktop,YES,New ,186.69,5,16.8 TRY,3,3.1,47.68
+2022,NA,trabzon,books,E-Wallet ,NA,No,@New,57.58,7,NA TRY,7,4.2,5.59
+2018,1,KAYSERI,Books ,e-wallet,desktop,yes,NEW,413.31,6,24.62 TRY,1,NA,90.69
+2018,8,Samsun ,Clothing ,Cash on Delivery ,desktop,YES,new,135.6,5,13.64 TRY,6,3.4,37.07
+2019,12,Diy@rb@kir,books,debit card,Mobil3,NO,RETURNING,499.22,9,34.13 TRY,3,4.0,136.18
+2018,12,MALATYA,books,@Credit Card,mobile,no,new,146.32,9,21.52 TRY,3,4.1,3.75
+NA,2,@Diyarbakir,books,e-wallet,tablet,no,@New,310.44,4,20.38 TRY,6,4.9,31.68
+2012,1,@Konya,Toys,debit card,tablet,No,NEW,161.69,10,23.72 TRY,4,4.3,47.16
+2014,5,MERSIN,@Books,CREDIT CARD,Desktop ,@Yes,RETURNING,57.83,6,6.54 TRY,NA,3.7,10.23
+2014,2,Eskişehir ,NA,D3bit C@rd,@NA,yes,NEW,367.61,NA,21.61 TRY,NA,3.9,64.41
+2011,9,S@msun,na,E-WALLET,TABLET,@Yes,NEW,407.89,2,44.0 TRY,6,3.3,88.58
+2018,3,@Adana,@Electronics,CASH ON DELIVERY,Mobile ,Y3s,na,104.85,8,9.84 TRY,NA,3.5,2.58
+NA,6,@Ankara,Toys ,E-W@ll3t,MOBILE,@No,Returning ,NA,6,38.61 TRY,5,3.4,47.75
+2015,1,Ant@ly@,home,e-wallet,tablet,YES,new,248.02,6,30.68 TRY,7,4.0,11.13
+2010,11,Izmir,HOME,debit card,DESKTOP,yes,new,359.12,2,37.37 TRY,1,4.8,51.91
+2011,NA,Diy@rb@kir,books,@Cash on Delivery,@Mobile,no,returning,73.68,6,10.32 TRY,6,3.0,18.79
+2019,12,bursa,BOOKS,E-Wallet ,Mobil3,Yes ,@Returning,355.1,8,24.85 TRY,7,4.9,22.75
+2017,8,Konya ,Toys ,Credit Card ,Mobile ,yes,N3w,240.98,3,14.62 TRY,3,3.5,67.28
+2016,11,BURSA,@Toys,cash on delivery,Tablet ,@No,@Returning,392.93,5,37.61 TRY,5,3.5,31.09
+2011,2,malatya,Toys ,D3bit C@rd,tablet,Y3s,returning,326.88,1,34.08 TRY,1,4.1,85.73
+2010,4,mersin,B3@uty,CREDIT CARD,tablet,yes,@Returning,391.68,10,56.64 TRY,5,4.8,114.12
+2012,11,ESKIŞEHIR,Toys,@Debit Card,NA,NA ,NA,135.97,8,7.78 TRY,6,3.8,NA
+2020,9,KAYSERI,BEAUTY,na,T@bl3t,@No,N3w,463.87,4,55.27 TRY,5,3.1,45.89
+2015,10,na,Hom3,cash on delivery,desktop,NA,N3w,305.0,6,40.17 TRY,2,3.9,35.53
+2016,5,ANKARA,Toys,credit card,@Desktop,Y3s,New ,451.21,NA,44.66 TRY,2,3.7,128.97
+2015,3,Diyarbakir ,@Home,E-WALLET,desktop,No ,returning,210.18,3,24.95 TRY,7,4.3,19.53
+NA,9,MERSIN,Hom3,@NA,tablet,no,@Returning,86.55,1,4.53 TRY,3,4.7,3.75
+2016,4,@Kayseri,@Home,E-W@ll3t,NA,no,Returning ,415.35,1,28.68 TRY,NA,4.3,33.74
+NA,11,Ank@r@,Books,Credit Card ,@Mobile,@No,@New,121.61,4,6.8 TRY,1,4.8,29.72
+2015,6,@Malatya,TOYS,@Debit Card,@Desktop,No ,@New,263.95,4,38.33 TRY,7,3.2,70.47
+2019,1,Gaziantep ,CLOTHING,@Debit Card,mobile,Y3s,NEW,342.29,1,46.12 TRY,2,4.3,15.36
+2015,12,Adana ,@Books,DEBIT CARD,MOBILE,Yes ,new,156.37,5,8.06 TRY,4,3.8,NA
+2023,3,M@l@ty@,BEAUTY,E-WALLET,mobile,@No,Returning ,375.8,9,51.39 TRY,7,3.0,72.02
+2022,5,Trabzon ,electronics,cash on delivery,@NA,Yes ,Returning ,431.61,6,53.4 TRY,3,4.8,108.63
+2023,11,izmir,@Clothing,debit card,TABLET,YES,returning,425.96,7,39.94 TRY,5,4.5,42.91
+2020,2,@Gaziantep,@Electronics,CREDIT CARD,Mobile ,No,RETURNING,461.11,9,41.26 TRY,3,NA,130.44
+2023,5,@NA,TOYS,Debit Card ,desktop,no,N3w,176.6,NA,16.12 TRY,6,3.5,35.1
+NA,4,Izmir,BOOKS,debit card,desktop,no,@Returning,105.76,NA,NA TRY,2,3.8,29.92
+2017,1,@Adana,books,DEBIT CARD,NA,NO,N3w,209.69,6,13.78 TRY,5,NA,4.27
+2018,8,KONYA,BOOKS,E-W@ll3t,NA ,YES,N3w,187.56,9,19.37 TRY,NA,3.2,11.36
+2020,8,Eskişehir ,Home ,Debit Card ,Mobil3,@No,RETURNING,303.87,5,38.6 TRY,1,NA,24.94
+2016,2,SAMSUN,beauty,D3bit C@rd,TABLET,YES,@New,240.46,7,26.05 TRY,7,4.6,NA
+2017,12,ANTALYA,BOOKS,Cr3dit C@rd,Mobil3,NO,RETURNING,153.97,3,22.42 TRY,NA,4.2,36.5
+2019,10,bursa,@Clothing,E-Wallet ,TABLET,@Yes,@Returning,376.76,4,20.85 TRY,NA,4.2,32.8
+2016,2,Diyarbakir ,ELECTRONICS,Credit Card ,T@bl3t,No,@New,477.3,8,31.76 TRY,3,4.7,22.89
+2013,6,G@zi@nt3p,NA ,@Credit Card,DESKTOP,@No,New ,84.6,9,10.1 TRY,7,4.6,15.06
+2021,5,@Antalya,home,@Debit Card,MOBILE,YES,NA,458.64,3,43.3 TRY,4,4.1,NA
+2021,6,van,@Electronics,credit card,Desktop ,@No,Returning ,169.01,4,13.0 TRY,3,3.9,45.5
+2021,8,TRABZON,CLOTHING,E-W@ll3t,desktop,No ,N3w,188.1,5,NA TRY,6,3.6,NA
+2012,8,@Malatya,Toys ,CREDIT CARD,DESKTOP,Y3s,R3turning,116.53,5,16.86 TRY,6,4.7,12.41
+2022,11,@Van,NA,@Credit Card,Mobile ,@Yes,returning,350.78,3,37.38 TRY,6,4.1,73.35
+2012,3,eskişehir,clothing,Debit Card ,NA ,NO,N3w,NA,8,44.83 TRY,7,3.9,103.76
+2012,5,ESKIŞEHIR,@Home,Cr3dit C@rd,Tablet ,No,@NA,461.15,6,40.97 TRY,5,3.2,84.74
+2021,2,Ant@ly@,toys,@Credit Card,Tablet ,yes,Returning ,366.65,1,34.47 TRY,4,4.5,6.34
+2017,1,Ankara ,Beauty ,e-wallet,Mobil3,@NA,N3w,217.6,8,26.54 TRY,2,4.3,16.83
+2014,9,@NA,@Toys,e-wallet,T@bl3t,Y3s,RETURNING,391.09,8,26.69 TRY,NA,3.8,8.16
+NA,2,V@n,@Toys,Credit Card ,Tablet ,No,returning,481.26,5,51.0 TRY,5,3.3,65.9
+2019,8,M3rsin,books,cash on delivery,Desktop ,@No,@New,164.14,6,22.52 TRY,4,3.0,31.83
+2021,2,Eskişehir ,Beauty ,D3bit C@rd,D3sktop,NO,Returning ,449.16,6,43.73 TRY,7,4.0,58.7
+2022,NA,@Gaziantep,Toys,Debit Card ,T@bl3t,YES,new,341.79,7,24.23 TRY,3,3.2,75.41
+2014,7,trabzon,@Toys,Cash on Delivery ,D3sktop,YES,NEW,155.99,6,16.58 TRY,1,NA,25.17
+2011,10,@Gaziantep,CLOTHING,@NA,Tablet ,YES,New ,169.31,4,13.77 TRY,3,NA,NA
+2015,4,Malatya ,@Electronics,E-Wallet ,Desktop ,@Yes,New ,126.38,3,18.7 TRY,1,3.1,1.91
+2019,5,@Ankara,BOOKS,E-WALLET,@Tablet,@Yes,New ,317.54,7,17.91 TRY,NA,4.0,21.01
+2014,7,van,@Clothing,Cr3dit C@rd,desktop,@No,Returning ,405.96,1,32.35 TRY,6,4.1,76.87
+2014,12,VAN,books,credit card,Mobile ,@Yes,@Returning,NA,6,11.57 TRY,4,4.4,26.82
+2017,6,NA ,@Beauty,Credit Card ,DESKTOP,Yes ,R3turning,89.64,7,12.92 TRY,1,3.7,25.51
+2022,10,NA,Beauty ,E-Wallet ,mobile,YES,new,NA,7,50.88 TRY,7,NA,32.35
+2022,2,ADANA,Books ,credit card,T@bl3t,@No,RETURNING,105.46,2,11.88 TRY,2,4.4,NA
+2012,6,Eskişehir ,books,D3bit C@rd,Tablet ,@No,N3w,94.55,1,NA TRY,5,3.1,18.59
+2010,5,konya,@Home,CREDIT CARD,@Mobile,@No,@Returning,257.19,7,28.07 TRY,5,3.3,65.69
+2016,7,malatya,BEAUTY,D3bit C@rd,mobile,NO,NA ,386.81,1,22.43 TRY,5,4.7,55.7
+2010,9,IZMIR,Books,@Credit Card,D3sktop,@No,new,193.48,6,21.1 TRY,2,4.4,38.3
+2018,NA,DIYARBAKIR,Beauty ,credit card,Tablet ,Y3s,R3turning,307.0,5,17.48 TRY,NA,3.3,82.4
+2010,10,Samsun ,CLOTHING,D3bit C@rd,tablet,YES,@New,413.56,7,38.16 TRY,3,NA,70.24
+2016,8,ISTANBUL,@Toys,CASH ON DELIVERY,T@bl3t,@Yes,N3w,447.5,1,54.42 TRY,4,3.9,22.62
+2010,11,Izmir,B3@uty,NA,@Mobile,@Yes,@Returning,NA,5,NA TRY,2,4.3,0.87
+2015,5,@Bursa,books,DEBIT CARD,@Desktop,no,new,165.0,8,9.02 TRY,3,4.0,34.16
+2017,NA,na,@Home,cash on delivery,Desktop ,YES,NEW,442.98,1,37.82 TRY,5,NA,2.2
+2023,6,eskişehir,Toys,Cr3dit C@rd,mobile,yes,N3w,358.54,8,24.3 TRY,3,4.1,67.48
+2020,5,Antalya ,@Books,@Cash on Delivery,DESKTOP,YES,NA,179.52,NA,13.68 TRY,2,3.9,25.06
+2014,9,@NA,ELECTRONICS,@Debit Card,@Tablet,No ,new,290.2,3,34.82 TRY,7,3.9,79.2
+2018,9,Mersin ,Toys ,CASH ON DELIVERY,D3sktop,@Yes,RETURNING,90.29,2,NA TRY,6,4.2,9.49
+2023,1,Tr@bzon,@Toys,Cash on Delivery ,@Tablet,NO,RETURNING,192.87,8,28.23 TRY,1,3.5,8.65
+2017,12,ANTALYA,electronics,@Credit Card,T@bl3t,@No,@NA,279.29,NA,20.07 TRY,3,4.7,62.82
+2014,5,KONYA,B3@uty,Cr3dit C@rd,@Mobile,na,RETURNING,126.4,2,9.04 TRY,6,3.6,37.87
+2022,11,M3rsin,Home ,E-Wallet ,D3sktop,NO,@Returning,230.98,6,15.48 TRY,5,3.4,4.83
+2015,10,trabzon,Clothing,Debit Card ,@Desktop,Y3s,NEW,363.8,10,41.77 TRY,2,3.6,38.79
+2014,11,MALATYA,beauty,E-Wallet ,Desktop ,Y3s,returning,399.58,6,44.63 TRY,6,4.3,15.83
+2019,10,ISTANBUL,books,Cash on Delivery ,desktop,YES,returning,342.22,6,43.92 TRY,4,4.6,NA
+2014,6,Istanbul ,@Books,DEBIT CARD,MOBILE,Yes ,@Returning,64.66,2,9.14 TRY,NA,3.8,17.14
+2014,9,izmir,@NA,@NA,mobile,no,R3turning,456.59,NA,43.24 TRY,7,3.5,100.38
+2021,5,NA,electronics,E-WALLET,DESKTOP,No,@Returning,NA,4,38.04 TRY,1,NA,120.57
+2011,3,Ankara ,@Books,Cash on Delivery ,@Mobile,YES,New ,294.47,8,38.08 TRY,NA,3.4,63.38
+2019,3,Trabzon ,B3@uty,@Cash on Delivery,@NA,no,RETURNING,84.91,10,7.56 TRY,NA,4.3,18.45
+2016,2,bursa,Hom3,Credit Card ,desktop,NA,RETURNING,88.97,1,10.62 TRY,4,3.3,15.15
+2020,8,NA,electronics,@Debit Card,Desktop ,Yes ,R3turning,243.04,NA,24.63 TRY,7,4.1,69.81
+2022,9,ankara,@Books,C@sh on D3liv3ry,@Desktop,NA,NA,233.47,4,16.42 TRY,6,4.4,25.59
+2020,10,ankara,Home ,e-wallet,Mobile ,@NA,Returning ,145.46,NA,NA TRY,4,NA,37.01
+2020,2,Kony@,@Books,Cr3dit C@rd,tablet,No,@New,323.9,10,28.17 TRY,5,4.5,28.25
+2020,2,trabzon,@NA,E-Wallet ,DESKTOP,Y3s,@Returning,138.68,9,NA TRY,7,3.5,39.99
+2020,1,@Gaziantep,Electronics ,@Cash on Delivery,Tablet ,Yes ,NEW,NA,NA,50.5 TRY,5,4.7,NA
+2022,4,trabzon,BOOKS,cash on delivery,@Tablet,No,@New,468.09,8,32.97 TRY,2,4.6,90.8
+2023,12,ADANA,Clothing,@Credit Card,Mobil3,@No,@Returning,374.68,7,37.86 TRY,4,4.1,20.57
+2020,3,istanbul,BEAUTY,C@sh on D3liv3ry,Tablet ,no,@NA,466.45,8,40.4 TRY,3,4.8,66.66
+2016,11,V@n,Clothing ,C@sh on D3liv3ry,DESKTOP,@Yes,Returning ,334.81,7,30.81 TRY,5,4.6,53.85
+2019,8,Van ,home,credit card,TABLET,NA,R3turning,276.57,5,NA TRY,1,5.0,52.45
+2020,4,gaziantep,Beauty ,E-W@ll3t,tablet,no,R3turning,NA,NA,51.94 TRY,1,5.0,6.45
+2018,4,VAN,@Clothing,debit card,mobile,@Yes,Returning ,276.56,NA,23.36 TRY,2,3.6,6.48
+2011,7,V@n,na,@Cash on Delivery,desktop,Y3s,@New,446.34,5,30.54 TRY,7,3.8,85.24
+2013,11,BURSA,@Beauty,Cr3dit C@rd,TABLET,@Yes,@NA,51.85,6,NA TRY,4,3.1,NA
+2018,5,Ant@ly@,BEAUTY,CREDIT CARD,@Desktop,yes,@NA,135.48,2,10.23 TRY,2,3.2,24.49
+2018,6,@Konya,Electronics ,@Debit Card,tablet,yes,NA,469.3,7,31.81 TRY,1,3.1,118.88
+2017,9,Gaziantep ,Toys,e-wallet,Desktop ,No,@New,298.44,2,38.34 TRY,3,3.7,14.74
+2010,1,@Diyarbakir,TOYS,C@sh on D3liv3ry,Mobile ,NA ,R3turning,427.94,6,NA TRY,1,4.9,54.86
+2022,4,antalya,ELECTRONICS,DEBIT CARD,Desktop ,No ,na,338.52,5,33.73 TRY,2,4.1,18.16
+2023,3,Izmir ,NA ,e-wallet,Tablet ,@Yes,Returning ,442.16,7,43.69 TRY,5,3.7,33.33
+2018,4,Bursa ,Toys ,D3bit C@rd,T@bl3t,@No,New ,NA,NA,17.08 TRY,3,4.6,46.25
+2021,12,samsun,@Clothing,@Cash on Delivery,DESKTOP,YES,RETURNING,152.31,NA,22.13 TRY,5,4.6,35.45
+2017,NA,TRABZON,beauty,@Cash on Delivery,Tablet ,Y3s,@Returning,367.65,9,51.19 TRY,1,4.6,11.58
+2019,4,ISTANBUL,@Beauty,credit card,NA ,Y3s,returning,134.95,10,NA TRY,3,4.6,39.64
+2013,9,Gaziantep ,@Toys,@Debit Card,@Mobile,Y3s,RETURNING,429.89,3,55.96 TRY,3,5.0,7.22
+NA,5,DIYARBAKIR,NA,NA,DESKTOP,NO,RETURNING,NA,10,53.82 TRY,NA,4.4,130.88
+2023,4,istanbul,beauty,cash on delivery,DESKTOP,No,NEW,437.86,NA,29.89 TRY,1,NA,NA
+2010,1,Izmir ,clothing,@E-Wallet,MOBILE,@No,NA,NA,NA,NA TRY,5,4.9,29.29
+2013,2,@Samsun,Books,E-W@ll3t,Desktop ,yes,N3w,158.09,7,17.37 TRY,2,4.4,0.48
+2013,6,ANTALYA,@Beauty,credit card,na,yes,R3turning,329.41,9,46.77 TRY,2,4.7,1.61
+2019,12,ANKARA,clothing,debit card,DESKTOP,Y3s,New ,313.22,4,15.98 TRY,5,3.5,17.21
+2012,4,TRABZON,clothing,@Debit Card,Tablet ,NA,NA,155.52,10,16.46 TRY,3,4.6,10.39
+2010,5,diyarbakir,@Toys,@E-Wallet,Desktop ,@Yes,@New,325.47,2,21.85 TRY,4,4.1,77.14
+2022,12,@NA,BOOKS,CREDIT CARD,T@bl3t,YES,Returning ,354.16,3,36.21 TRY,3,4.2,73.14
+2010,5,samsun,@Home,e-wallet,Desktop ,yes,returning,175.73,8,25.38 TRY,1,3.5,13.42
+2022,7,Kayseri ,NA ,E-Wallet ,Mobile ,Y3s,NA ,NA,6,30.21 TRY,5,3.9,96.43
+2023,7,Konya ,@NA,Debit Card ,Desktop ,yes,RETURNING,432.69,7,62.45 TRY,4,NA,85.09
+2017,10,diyarbakir,Toys ,E-WALLET,Tablet ,No,Returning ,341.11,8,43.8 TRY,5,3.9,41.6
+2011,10,NA,TOYS,D3bit C@rd,DESKTOP,No ,@New,478.05,3,55.08 TRY,3,3.0,45.11
+2018,7,@Ankara,Electronics ,@Debit Card,Tablet ,YES,new,NA,2,56.66 TRY,1,NA,42.3
+2019,10,@Istanbul,Home ,E-W@ll3t,@NA,@Yes,NA,444.69,4,60.63 TRY,3,4.6,77.28
+2017,NA,NA,Electronics ,@Debit Card,MOBILE,yes,new,137.59,9,14.74 TRY,NA,4.3,40.29
+2016,7,@Eskişehir,@Books,C@sh on D3liv3ry,NA,Y3s,@New,88.71,8,8.67 TRY,5,3.2,15.8
+2017,4,Kayseri ,clothing,na,@Tablet,No,new,NA,7,48.54 TRY,3,3.3,96.79
+2022,9,Ankara ,El3ctronics,E-WALLET,NA ,@Yes,Returning ,224.85,6,29.01 TRY,1,4.3,15.91
+2021,NA,Ankara ,clothing,cash on delivery,NA,no,RETURNING,NA,3,27.18 TRY,4,3.1,25.16
+2015,12,M3rsin,books,CREDIT CARD,T@bl3t,@Yes,Returning ,284.11,3,23.07 TRY,5,4.3,7.35
+2013,8,M@l@ty@,home,Credit Card ,@Mobile,no,N3w,388.94,10,55.06 TRY,1,4.7,95.11
+NA,5,Konya ,Hom3,CREDIT CARD,Tablet ,@No,R3turning,93.67,NA,7.95 TRY,4,NA,12.14
+2022,11,bursa,@Books,NA ,@Tablet,No,Returning ,NA,7,5.58 TRY,4,4.3,7.76
+2021,11,Ad@n@,NA,@Cash on Delivery,tablet,no,@New,339.31,3,21.77 TRY,3,4.4,85.59
+NA,3,Ank@r@,Books ,Debit Card ,@Desktop,NO,N3w,488.09,4,27.69 TRY,2,3.7,96.77
+2019,6,Izmir,B3@uty,Credit Card ,Mobil3,no,R3turning,NA,6,22.15 TRY,2,4.3,20.14
+2019,8,KAYSERI,@Toys,C@sh on D3liv3ry,@Mobile,yes,Returning ,395.15,5,NA TRY,NA,4.2,113.18
+NA,12,Istanbul ,Electronics ,E-W@ll3t,Mobil3,No,Returning ,358.75,7,35.86 TRY,5,4.3,39.64
+2010,NA,KAYSERI,CLOTHING,Credit Card ,DESKTOP,Y3s,RETURNING,234.06,3,13.76 TRY,NA,4.6,NA
+2012,11,ADANA,@Electronics,Cr3dit C@rd,desktop,YES,New ,346.71,NA,37.24 TRY,4,NA,35.08
+2012,NA,Eskiş3hir,El3ctronics,Cr3dit C@rd,T@bl3t,yes,N3w,385.33,5,53.93 TRY,NA,4.1,112.49
+2017,1,VAN,beauty,Debit Card ,desktop,@Yes,returning,55.42,1,NA TRY,1,4.3,4.6
+2020,12,G@zi@nt3p,Toys,DEBIT CARD,desktop,NO,@New,191.37,10,21.98 TRY,1,4.4,NA
+2013,NA,@Kayseri,toys,Debit Card ,TABLET,no,RETURNING,475.78,8,30.15 TRY,4,4.2,88.38
+2011,3,malatya,@NA,D3bit C@rd,Tablet ,@Yes,RETURNING,344.78,5,23.74 TRY,2,4.3,10.27
+2018,3,@Samsun,Toys ,D3bit C@rd,Tablet ,yes,@New,360.87,1,NA TRY,NA,4.5,87.16
+2022,2,Van ,electronics,CASH ON DELIVERY,tablet,NO,R3turning,201.25,3,NA TRY,2,NA,59.0
+2016,2,istanbul,clothing,@Debit Card,D3sktop,No,returning,NA,6,20.99 TRY,3,NA,43.58
+2017,7,Van ,HOME,e-wallet,@Desktop,@No,Returning ,230.77,8,NA TRY,5,3.6,67.42
+2023,1,@NA,clothing,Credit Card ,mobile,NO,@Returning,482.37,5,40.28 TRY,6,3.2,NA
+2022,5,Istanbul ,@Electronics,Cash on Delivery ,Desktop ,yes,returning,81.99,8,11.63 TRY,6,5.0,12.25
+2016,1,Malatya ,ELECTRONICS,debit card,Desktop ,YES,@Returning,147.0,1,9.81 TRY,5,NA,27.48
+2013,6,Ad@n@,B3@uty,debit card,@Mobile,No ,@New,72.85,2,8.79 TRY,1,3.7,8.49
+2013,3,Burs@,Beauty ,CREDIT CARD,T@bl3t,Y3s,N3w,121.31,1,9.45 TRY,7,4.5,18.42
+2016,5,@Diyarbakir,@Toys,E-Wallet ,mobile,Yes ,New ,125.78,1,15.31 TRY,6,3.5,10.95
+2012,1,Ank@r@,@Electronics,cash on delivery,desktop,No ,new,439.44,2,31.27 TRY,1,3.1,114.93
+2017,2,S@msun,Electronics ,E-Wallet ,T@bl3t,yes,@Returning,116.94,NA,NA TRY,6,3.7,NA
+2012,2,NA ,BOOKS,@Credit Card,DESKTOP,@NA,new,NA,6,3.82 TRY,3,3.7,10.53
+2020,12,KAYSERI,clothing,cash on delivery,TABLET,No ,returning,217.78,10,11.4 TRY,5,3.4,NA
+2010,7,Burs@,@Electronics,Cr3dit C@rd,@Tablet,NO,@New,458.56,7,45.63 TRY,3,NA,46.77
+2010,10,eskişehir,@Toys,C@sh on D3liv3ry,@Tablet,No ,RETURNING,142.42,4,14.02 TRY,7,4.1,28.13
+2021,3,Izmir ,Hom3,DEBIT CARD,Tablet ,@Yes,R3turning,322.57,1,21.4 TRY,6,3.1,43.51
+2013,3,Van ,NA ,e-wallet,Tablet ,No,NA,441.92,5,55.36 TRY,3,4.6,28.15
+2021,8,Kayseri ,books,E-W@ll3t,desktop,YES,N3w,494.68,10,69.09 TRY,NA,3.4,63.43
+2015,7,TRABZON,Clothing,E-W@ll3t,NA,Y3s,@Returning,310.58,6,27.35 TRY,2,4.4,56.92
+2015,NA,@Diyarbakir,El3ctronics,cash on delivery,D3sktop,@No,N3w,180.04,5,NA TRY,7,3.3,26.67
+2010,10,Eskiş3hir,@NA,Credit Card ,Mobil3,Yes ,returning,229.94,9,30.75 TRY,5,4.9,24.44
+2015,12,@Mersin,beauty,debit card,T@bl3t,No,NEW,233.7,9,32.22 TRY,2,4.7,28.7
+2015,2,mersin,ELECTRONICS,credit card,T@bl3t,Y3s,Returning ,421.4,4,32.1 TRY,7,4.1,34.69
+2012,2,NA,books,credit card,D3sktop,NA,NEW,142.54,4,14.28 TRY,3,3.7,NA
+2023,4,Tr@bzon,NA,Cash on Delivery ,Mobile ,Y3s,@New,163.95,4,17.33 TRY,5,4.0,38.48
+2020,12,@Konya,electronics,E-W@ll3t,Mobile ,yes,RETURNING,417.6,10,32.17 TRY,2,NA,81.77
+2014,12,ADANA,toys,credit card,@Mobile,No ,RETURNING,340.73,6,20.28 TRY,4,3.5,74.94
+2019,9,ESKIŞEHIR,home,D3bit C@rd,@Tablet,No,@New,157.06,3,17.61 TRY,3,3.3,15.83
+2012,5,izmir,Toys,e-wallet,mobile,NO,N3w,355.31,NA,50.7 TRY,4,3.5,68.13
+2019,6,Ad@n@,BOOKS,E-WALLET,MOBILE,YES,New ,306.04,9,41.57 TRY,7,4.0,24.96
+2021,5,MALATYA,ELECTRONICS,DEBIT CARD,NA,yes,New ,394.64,6,48.17 TRY,1,4.4,8.65
+2022,NA,antalya,Books,E-Wallet ,TABLET,no,Returning ,439.2,7,35.06 TRY,6,3.2,34.86
+2017,12,Tr@bzon,HOME,E-Wallet ,@Mobile,NO,returning,71.47,8,7.11 TRY,4,4.1,14.28
+2010,5,Tr@bzon,@Clothing,CASH ON DELIVERY,DESKTOP,no,@New,266.62,10,22.24 TRY,7,4.7,18.7
+2012,7,Izmir,BOOKS,C@sh on D3liv3ry,@NA,@No,N3w,149.04,5,11.27 TRY,5,5.0,43.99
+2022,1,Burs@,@Electronics,Cash on Delivery ,@Tablet,no,NA,173.45,9,21.25 TRY,NA,3.7,6.46
+2013,NA,Eskiş3hir,HOME,E-Wallet ,NA ,yes,new,280.37,7,17.38 TRY,2,NA,43.02
+2019,1,@Konya,HOME,Credit Card ,tablet,@No,Returning ,371.27,5,35.84 TRY,1,3.9,18.47
+2021,3,bursa,Books,@Debit Card,Mobil3,@Yes,New ,171.05,2,19.51 TRY,3,4.8,31.05
+NA,1,ANKARA,BOOKS,DEBIT CARD,Desktop ,no,N3w,134.69,6,19.18 TRY,1,3.4,33.0
+2011,4,bursa,@Books,DEBIT CARD,T@bl3t,no,@New,496.65,10,65.23 TRY,1,4.5,79.52
+2016,4,@Van,Clothing,NA ,mobile,Yes ,@NA,246.51,4,15.95 TRY,2,4.9,40.43
+2014,4,na,BEAUTY,e-wallet,D3sktop,No ,returning,257.44,3,22.61 TRY,4,3.3,72.01
+2018,7,Eskiş3hir,electronics,Debit Card ,@Tablet,@No,returning,341.32,8,27.16 TRY,7,4.2,8.56
+2015,10,gaziantep,HOME,CREDIT CARD,Mobile ,yes,N3w,96.54,8,13.87 TRY,3,3.1,8.62
+2014,5,Malatya ,electronics,e-wallet,Tablet ,@Yes,returning,449.64,1,66.98 TRY,4,4.4,83.6
+2011,12,NA,@Books,@Credit Card,Tablet ,@Yes,Returning ,58.78,9,7.31 TRY,7,3.4,8.56
+2010,2,Ank@r@,Electronics ,D3bit C@rd,Mobil3,@NA,NEW,127.62,5,NA TRY,5,4.4,22.88
+2021,11,gaziantep,na,D3bit C@rd,D3sktop,YES,@Returning,410.1,1,38.67 TRY,2,4.6,3.27
+2012,11,Adana ,@Books,Debit Card ,@Desktop,@Yes,NEW,425.0,6,60.04 TRY,4,3.3,20.98
+2014,7,KONYA,books,credit card,mobile,no,R3turning,495.57,6,61.8 TRY,5,4.6,125.98
+2019,3,Eskişehir ,home,C@sh on D3liv3ry,Mobile ,na,returning,301.25,7,35.2 TRY,1,3.7,30.33
+2022,10,@Bursa,@Electronics,credit card,D3sktop,No ,new,99.61,3,NA TRY,5,4.4,7.96
+2015,10,M3rsin,Home ,NA ,@NA,No,@New,173.99,7,18.52 TRY,2,3.9,42.46
+2016,6,NA,Toys ,Cash on Delivery ,T@bl3t,Y3s,RETURNING,449.99,8,41.11 TRY,2,3.7,56.82
+2010,4,Kayseri ,@Clothing,DEBIT CARD,DESKTOP,Yes ,new,403.33,6,34.01 TRY,3,3.4,60.17
+2020,11,gaziantep,Books,NA ,Mobil3,yes,new,223.31,1,15.5 TRY,1,3.9,NA
+2023,9,Ad@n@,Beauty ,@Cash on Delivery,tablet,NO,N3w,216.19,8,19.31 TRY,1,NA,59.69
+2020,4,Trabzon ,na,E-W@ll3t,desktop,Yes ,new,311.41,NA,20.49 TRY,3,3.7,63.96
+2011,NA,NA ,@Books,Debit Card ,MOBILE,NA,RETURNING,106.62,9,5.6 TRY,4,3.7,18.82
+2012,11,Eskişehir ,TOYS,@Credit Card,DESKTOP,Yes ,new,313.67,6,32.34 TRY,1,3.1,28.04
+2013,4,GAZIANTEP,@Electronics,debit card,na,@Yes,Returning ,460.22,NA,47.55 TRY,1,NA,99.76
+2019,12,SAMSUN,beauty,C@sh on D3liv3ry,mobile,@No,NEW,362.6,1,25.06 TRY,3,4.4,51.91
+NA,3,V@n,BEAUTY,E-WALLET,tablet,No,RETURNING,238.44,9,30.19 TRY,1,3.6,69.66
+2010,5,Ank@r@,home,DEBIT CARD,TABLET,YES,new,178.68,3,22.85 TRY,5,4.3,39.7
+NA,4,ESKIŞEHIR,@Toys,@Cash on Delivery,D3sktop,Y3s,R3turning,483.65,6,31.21 TRY,2,4.4,120.23
+2010,4,@Van,Hom3,C@sh on D3liv3ry,@Mobile,Y3s,R3turning,242.54,4,25.1 TRY,3,4.5,32.92
+2022,3,Kony@,Clothing,@Debit Card,mobile,YES,returning,98.76,9,13.79 TRY,5,3.7,28.68
+2011,7,ANTALYA,ELECTRONICS,Cash on Delivery ,Mobil3,No ,returning,277.99,NA,23.99 TRY,3,3.1,56.55
+2018,NA,@Konya,@Electronics,CASH ON DELIVERY,Desktop ,yes,New ,484.16,1,28.94 TRY,2,5.0,83.51
+2013,9,izmir,@Home,@Debit Card,@Mobile,No,NA,294.57,9,24.67 TRY,2,3.7,22.71
+2014,9,Adana ,@Books,@E-Wallet,mobile,No,new,230.73,4,33.66 TRY,1,3.9,40.56
+2022,10,@Adana,ELECTRONICS,@E-Wallet,desktop,Y3s,new,219.47,1,25.8 TRY,6,3.6,20.62
+NA,6,Ankara ,@Clothing,e-wallet,DESKTOP,@Yes,New ,440.7,10,47.37 TRY,3,3.5,83.36
+2013,7,Mersin ,ELECTRONICS,E-WALLET,D3sktop,Y3s,RETURNING,NA,9,18.44 TRY,NA,4.9,31.34
+2022,NA,NA,@Electronics,Debit Card ,T@bl3t,No,Returning ,469.38,4,NA TRY,2,4.1,63.79
+NA,2,@Konya,clothing,Debit Card ,Desktop ,@Yes,new,487.73,5,32.87 TRY,1,NA,84.91
+2014,9,Diy@rb@kir,Books ,credit card,NA,@No,R3turning,245.8,7,24.79 TRY,7,3.0,18.28
+2013,7,@Mersin,Hom3,na,Mobile ,Yes ,Returning ,NA,6,35.38 TRY,NA,4.7,71.44
+2023,1,Diy@rb@kir,Books ,credit card,@Mobile,no,new,291.33,9,38.51 TRY,5,3.5,19.67
+2014,12,@Van,na,CREDIT CARD,TABLET,@NA,@New,71.5,1,8.41 TRY,7,4.0,0.72
+2018,4,Izmir,Beauty ,NA,@Tablet,YES,NEW,72.96,7,3.86 TRY,NA,4.0,1.41
+2018,6,trabzon,@Toys,@Credit Card,@Desktop,yes,N3w,368.28,8,40.77 TRY,7,3.2,62.42
+2019,6,DIYARBAKIR,@Books,C@sh on D3liv3ry,@Mobile,YES,New ,70.0,6,4.88 TRY,1,NA,9.47
+2014,9,Izmir,@Clothing,credit card,tablet,NO,Returning ,446.15,7,NA TRY,1,4.1,NA
+2014,11,@Mersin,B3@uty,e-wallet,MOBILE,Y3s,@Returning,242.03,4,21.66 TRY,2,4.1,56.93
+2010,5,@Antalya,BEAUTY,e-wallet,Tablet ,@No,Returning ,82.51,4,9.67 TRY,6,3.7,5.62
+2021,7,Ist@nbul,El3ctronics,E-W@ll3t,@Mobile,Yes ,N3w,416.12,2,NA TRY,5,4.3,3.33
+2011,7,mersin,@Beauty,credit card,mobile,NO,new,50.53,6,5.62 TRY,6,3.8,1.16
+2016,4,M3rsin,@Electronics,cash on delivery,Mobile ,na,RETURNING,NA,NA,8.79 TRY,4,3.2,17.24
+2013,8,MERSIN,@Toys,CREDIT CARD,@Mobile,no,N3w,418.09,2,22.6 TRY,5,3.2,18.98
+2019,12,Samsun ,Books ,E-Wallet ,NA,yes,new,491.23,2,24.72 TRY,NA,4.9,93.22
+2010,1,VAN,Clothing ,credit card,@Tablet,@Yes,@New,210.07,4,19.56 TRY,3,3.4,3.31
+2013,8,MERSIN,Hom3,C@sh on D3liv3ry,D3sktop,Yes ,@New,230.7,2,31.1 TRY,6,4.2,NA
+2019,10,@Kayseri,ELECTRONICS,Credit Card ,TABLET,@No,@New,392.09,2,29.07 TRY,5,3.1,21.78
+2011,1,IZMIR,@Toys,@Credit Card,Tablet ,yes,@New,NA,3,6.12 TRY,7,3.6,7.63
+2011,3,@Izmir,TOYS,Cr3dit C@rd,@Tablet,@Yes,returning,226.06,10,23.7 TRY,7,3.9,42.44
+2013,5,Malatya ,toys,@Cash on Delivery,Mobil3,Yes ,R3turning,NA,1,40.33 TRY,6,3.8,36.67
+2015,10,DIYARBAKIR,Clothing,E-W@ll3t,tablet,@Yes,NEW,75.96,4,5.56 TRY,5,4.7,9.48
+2011,5,NA,Clothing ,DEBIT CARD,Desktop ,no,@Returning,167.75,3,12.88 TRY,7,NA,6.15
+2018,5,na,BEAUTY,CASH ON DELIVERY,Desktop ,@Yes,NA,293.6,2,15.32 TRY,3,3.7,15.31
+2019,10,istanbul,BOOKS,E-WALLET,mobile,NO,NA,65.22,6,5.98 TRY,3,3.6,16.52
+NA,5,DIYARBAKIR,El3ctronics,@E-Wallet,MOBILE,No,NA ,335.15,2,49.73 TRY,5,4.0,86.73
+2013,10,@Malatya,@Electronics,DEBIT CARD,T@bl3t,YES,new,214.29,1,31.9 TRY,1,3.1,33.1
+2017,8,G@zi@nt3p,home,Cr3dit C@rd,D3sktop,Yes ,returning,NA,6,40.6 TRY,6,3.7,47.59
+2019,NA,@Mersin,Clothing ,cash on delivery,NA,Yes ,Returning ,83.31,4,NA TRY,NA,3.2,5.34
+2010,7,NA ,NA,@E-Wallet,T@bl3t,Y3s,New ,157.65,9,16.55 TRY,2,3.7,13.17
+NA,5,Antalya ,ELECTRONICS,E-Wallet ,T@bl3t,NA,R3turning,NA,4,9.72 TRY,3,3.3,0.3
+2018,5,KAYSERI,@Electronics,credit card,@Tablet,yes,new,437.7,NA,29.56 TRY,4,4.0,43.75
+2019,7,S@msun,El3ctronics,Debit Card ,mobile,@No,R3turning,453.37,5,30.21 TRY,7,3.9,0.18
+2014,NA,ESKIŞEHIR,BOOKS,@Cash on Delivery,Mobil3,no,@Returning,351.79,5,19.69 TRY,6,4.0,71.97
+2018,1,Gaziantep ,Hom3,E-W@ll3t,@Tablet,No,N3w,161.2,5,20.43 TRY,4,4.7,NA
+2010,1,@Istanbul,electronics,NA,na,NA,RETURNING,473.26,7,28.81 TRY,5,4.5,26.64
+2010,2,G@zi@nt3p,BOOKS,CREDIT CARD,Tablet ,NA,R3turning,417.91,2,NA TRY,6,NA,42.01
+2017,11,@Konya,books,E-W@ll3t,@Desktop,Y3s,NA,370.95,10,41.38 TRY,2,NA,81.68
+2016,4,@Antalya,Toys,@Cash on Delivery,mobile,Yes ,NA,354.96,7,23.67 TRY,3,3.9,72.34
+2010,12,@Trabzon,Books ,cash on delivery,tablet,NO,NA,148.64,8,22.26 TRY,4,3.4,NA
+2011,NA,antalya,Electronics ,credit card,@Tablet,@No,@Returning,192.26,9,27.56 TRY,7,3.8,21.75
+2020,12,Adana ,@Home,E-Wallet ,Mobile ,YES,Returning ,418.02,3,28.74 TRY,1,3.9,72.21
+2014,6,Konya ,Toys,E-WALLET,mobile,No,N3w,118.91,8,9.85 TRY,5,3.3,35.31
+2014,11,konya,Home ,C@sh on D3liv3ry,mobile,NA ,na,427.71,8,50.38 TRY,6,4.4,119.09
+2021,9,DIYARBAKIR,@Books,E-W@ll3t,MOBILE,Y3s,R3turning,62.08,5,9.06 TRY,7,4.5,16.07
+2021,5,Samsun ,electronics,credit card,@Tablet,NO,N3w,494.58,2,48.71 TRY,5,4.5,51.31
+2015,8,adana,BEAUTY,@Debit Card,DESKTOP,No,NEW,466.84,10,29.21 TRY,4,3.3,69.36
+2015,10,malatya,Clothing,DEBIT CARD,MOBILE,Y3s,New ,337.62,6,42.29 TRY,5,3.2,97.34
+2019,8,@Samsun,B3@uty,C@sh on D3liv3ry,T@bl3t,no,returning,326.34,9,22.88 TRY,3,3.5,54.69
+2019,10,IZMIR,ELECTRONICS,C@sh on D3liv3ry,tablet,@NA,@New,190.73,10,10.41 TRY,6,3.1,29.62
+2010,NA,IZMIR,electronics,Credit Card ,Desktop ,No ,N3w,65.99,6,7.9 TRY,4,NA,16.12
+2021,8,@Eskişehir,Toys ,@Credit Card,tablet,no,R3turning,374.67,7,NA TRY,5,4.1,1.7
+2010,4,V@n,Books,e-wallet,MOBILE,No ,R3turning,176.25,8,20.36 TRY,3,4.8,46.97
+2020,4,GAZIANTEP,@Beauty,@E-Wallet,tablet,@No,R3turning,NA,NA,51.94 TRY,1,5.0,6.45
+2019,NA,@Antalya,Clothing,DEBIT CARD,TABLET,No,new,348.1,8,33.18 TRY,1,3.6,20.7
+2013,4,Tr@bzon,home,E-Wallet ,@Mobile,No,RETURNING,189.77,NA,25.15 TRY,5,4.2,47.6
+2013,10,NA ,na,@NA,D3sktop,YES,na,101.06,1,13.23 TRY,2,4.6,7.56
+2020,4,TRABZON,@NA,E-Wallet ,D3sktop,YES,new,311.41,NA,20.49 TRY,3,3.7,63.96
+2017,6,ANKARA,Books ,Debit Card ,Mobile ,YES,@Returning,456.72,8,49.77 TRY,5,4.4,50.49
+2020,2,KONYA,books,CREDIT CARD,Tablet ,No,New ,323.9,10,28.17 TRY,5,4.5,28.25
+2021,NA,Bursa ,Toys ,@Cash on Delivery,tablet,Yes ,NEW,271.0,2,14.14 TRY,4,4.9,34.2
+2023,NA,@Van,beauty,E-WALLET,mobile,@No,R3turning,433.76,1,23.41 TRY,4,3.1,21.35
+2016,8,ISTANBUL,TOYS,E-Wallet ,Desktop ,Yes ,NA ,123.95,4,17.78 TRY,4,4.5,17.95
+2013,1,DIYARBAKIR,Toys,NA ,desktop,No ,@Returning,442.83,5,44.26 TRY,6,4.9,28.98
+2013,5,MALATYA,Toys ,cash on delivery,Mobile ,YES,@Returning,NA,1,40.33 TRY,6,3.8,36.67
+2012,4,BURSA,Electronics ,Credit Card ,@Desktop,No,NEW,149.21,6,16.26 TRY,7,3.3,35.6
+2018,5,NA,BEAUTY,cash on delivery,desktop,@Yes,NA,293.6,2,15.32 TRY,3,3.7,15.31
+2019,NA,ISTANBUL,Clothing,cash on delivery,Tablet ,YES,R3turning,207.79,6,30.24 TRY,5,4.4,57.3
+2022,8,SAMSUN,NA ,Debit Card ,DESKTOP,NO,returning,262.15,6,36.39 TRY,1,4.7,32.84
+2020,11,@NA,Clothing ,C@sh on D3liv3ry,Desktop ,Y3s,N3w,356.74,10,49.57 TRY,4,NA,70.95
+2011,2,Eskiş3hir,@Toys,Cash on Delivery ,@Desktop,No,RETURNING,438.32,NA,49.52 TRY,2,3.9,60.97
+2014,10,Malatya ,Beauty ,@Debit Card,MOBILE,Y3s,returning,250.06,5,20.92 TRY,5,NA,1.82
+2015,1,Malatya ,@Beauty,E-Wallet ,tablet,YES,R3turning,395.1,3,39.0 TRY,6,4.0,103.77
+2016,11,@Bursa,@Electronics,na,Tablet ,no,R3turning,401.42,9,28.24 TRY,7,NA,103.98
+2016,11,MERSIN,NA ,DEBIT CARD,Tablet ,YES,NA,415.51,4,42.96 TRY,7,4.3,66.44
+2022,8,MERSIN,Books,CASH ON DELIVERY,Desktop ,yes,@Returning,290.17,NA,28.02 TRY,5,NA,9.22
+2023,10,Gaziantep ,ELECTRONICS,debit card,D3sktop,yes,Returning ,485.75,10,45.82 TRY,6,3.4,141.73
+2014,NA,ISTANBUL,Clothing,E-WALLET,D3sktop,NO,@New,273.28,3,32.17 TRY,NA,3.6,60.61
+2021,6,@Diyarbakir,@Home,C@sh on D3liv3ry,MOBILE,Y3s,N3w,297.68,10,36.21 TRY,6,NA,75.47
+2020,7,na,@Toys,CASH ON DELIVERY,TABLET,yes,RETURNING,279.6,5,18.69 TRY,1,4.8,25.42
+2022,12,V@n,clothing,@NA,tablet,YES,new,77.54,4,4.35 TRY,4,4.8,0.98
+2023,8,na,beauty,@Cash on Delivery,@Desktop,no,NEW,416.87,9,30.83 TRY,5,3.9,98.57
+NA,1,ANKARA,@Books,D3bit C@rd,DESKTOP,no,@New,134.69,6,19.18 TRY,1,3.4,33.0
+2012,1,Kony@,Toys,Debit Card ,@Tablet,No ,new,161.69,10,23.72 TRY,4,4.3,47.16
+2022,5,Trabzon ,Electronics ,C@sh on D3liv3ry,NA,Y3s,Returning ,431.61,6,53.4 TRY,3,4.8,108.63
+2017,NA,konya,Books,C@sh on D3liv3ry,tablet,@No,new,200.67,NA,26.4 TRY,1,4.5,17.38
+2021,7,V@n,books,E-W@ll3t,TABLET,NO,returning,58.56,NA,4.64 TRY,3,3.6,8.09
+2016,10,ISTANBUL,Toys ,E-Wallet ,desktop,@No,@New,388.7,10,54.54 TRY,6,3.9,41.08
+2017,10,eskişehir,NA ,CASH ON DELIVERY,Mobil3,@No,New ,270.11,4,37.92 TRY,3,4.6,59.04
+2011,9,S@msun,NA,e-wallet,@Tablet,@Yes,N3w,407.89,2,44.0 TRY,6,3.3,88.58
+2016,11,Ad@n@,CLOTHING,e-wallet,@Tablet,NO,R3turning,263.51,5,37.26 TRY,NA,4.3,40.18
+2019,4,kayseri,CLOTHING,CREDIT CARD,Desktop ,Yes ,@New,470.09,10,66.5 TRY,NA,4.7,37.42
+2016,2,ISTANBUL,Clothing ,Debit Card ,D3sktop,@No,returning,NA,6,20.99 TRY,3,NA,43.58
+2019,9,NA,Toys ,Credit Card ,TABLET,no,RETURNING,204.02,8,19.79 TRY,5,NA,30.3
+2013,10,@Izmir,toys,credit card,Tablet ,Y3s,NEW,208.89,6,12.64 TRY,4,4.4,36.28
+2016,2,mersin,na,C@sh on D3liv3ry,desktop,@No,@New,409.87,9,51.38 TRY,6,4.8,2.72
+2010,6,Ankara ,electronics,e-wallet,tablet,@Yes,R3turning,265.37,9,34.64 TRY,6,4.2,12.09
+2022,4,Kayseri ,@Beauty,CASH ON DELIVERY,D3sktop,No,Returning ,NA,8,33.38 TRY,1,3.2,NA
+2017,NA,kayseri,TOYS,CASH ON DELIVERY,Mobil3,NO,new,323.22,9,19.63 TRY,6,3.6,0.52
+2023,7,BURSA,Toys,e-wallet,Mobile ,No,Returning ,NA,3,8.06 TRY,5,3.8,10.94
+2018,1,BURSA,El3ctronics,E-WALLET,Desktop ,no,new,262.67,10,22.66 TRY,6,4.4,NA
+2015,10,M@l@ty@,clothing,Debit Card ,@Mobile,YES,NEW,337.62,6,42.29 TRY,5,3.2,97.34
+2018,1,Kayseri ,@Books,E-WALLET,DESKTOP,Y3s,New ,413.31,6,24.62 TRY,1,NA,90.69
+2021,11,ESKIŞEHIR,@Home,Cash on Delivery ,NA ,yes,returning,138.08,7,NA TRY,4,4.4,20.32
+2013,3,SAMSUN,@Books,cash on delivery,D3sktop,no,NA,291.1,2,33.25 TRY,4,3.7,26.89
+2017,8,GAZIANTEP,toys,cash on delivery,desktop,Y3s,RETURNING,NA,8,40.48 TRY,6,4.0,123.32
+2011,11,Trabzon ,@Clothing,Credit Card ,Mobile ,NA,@New,457.48,3,40.33 TRY,2,3.8,69.1
+2015,4,istanbul,na,Credit Card ,MOBILE,no,NEW,54.01,6,6.87 TRY,5,3.9,12.45
+2010,10,ESKIŞEHIR,toys,C@sh on D3liv3ry,TABLET,NO,Returning ,142.42,4,14.02 TRY,7,4.1,28.13
+2014,7,Ank@r@,@Home,credit card,mobile,Y3s,returning,388.14,10,52.04 TRY,6,4.9,74.04
+2023,3,bursa,B3@uty,@Credit Card,Mobil3,Yes ,Returning ,122.2,5,NA TRY,6,4.1,12.25
+2013,5,adana,Toys ,@E-Wallet,@Desktop,@No,New ,232.23,10,34.07 TRY,4,4.0,60.43
+2011,8,@Ankara,Books ,DEBIT CARD,MOBILE,No,NEW,487.94,5,49.51 TRY,2,3.8,141.16
+2017,9,@Diyarbakir,Books,E-Wallet ,@Mobile,Y3s,N3w,445.93,6,28.65 TRY,1,3.0,46.59
+2010,2,SAMSUN,B3@uty,Cr3dit C@rd,mobile,@Yes,@New,320.45,8,16.04 TRY,7,4.6,54.87
+2015,10,NA ,Home ,CASH ON DELIVERY,@Desktop,@NA,New ,305.0,6,40.17 TRY,2,3.9,35.53
+2018,5,Antalya ,BEAUTY,Credit Card ,@Desktop,Yes ,@NA,135.48,2,10.23 TRY,2,3.2,24.49
+2020,1,@Gaziantep,Electronics ,@Cash on Delivery,TABLET,YES,NEW,NA,NA,50.5 TRY,5,4.7,NA
+2017,12,Kayseri ,Toys ,DEBIT CARD,Tablet ,No ,@Returning,341.97,2,18.4 TRY,6,3.0,66.43
+2016,11,van,Clothing,@Cash on Delivery,desktop,Y3s,@Returning,334.81,7,30.81 TRY,5,4.6,53.85
+2012,9,@Kayseri,@Clothing,Cr3dit C@rd,Tablet ,No,new,238.52,7,18.19 TRY,4,4.1,62.25
+2016,3,KAYSERI,clothing,credit card,na,na,returning,268.32,5,38.01 TRY,NA,4.8,8.58
+2013,3,DIYARBAKIR,beauty,@Credit Card,D3sktop,No ,@Returning,490.58,7,NA TRY,6,3.0,62.6
+2013,8,gaziantep,Toys,E-W@ll3t,Mobil3,YES,@Returning,495.95,NA,66.43 TRY,1,3.1,25.68
+2016,10,Adana ,B3@uty,D3bit C@rd,tablet,@NA,@New,347.6,NA,39.96 TRY,7,4.9,66.51
+2013,8,MERSIN,Hom3,@Cash on Delivery,DESKTOP,YES,@New,230.7,2,31.1 TRY,6,4.2,NA
+NA,NA,Adana ,El3ctronics,debit card,@Mobile,No ,@New,NA,9,26.93 TRY,6,3.9,22.33
+2020,NA,Ad@n@,Home ,Credit Card ,T@bl3t,no,returning,133.96,4,9.03 TRY,2,4.3,18.96
+2013,2,@Gaziantep,CLOTHING,Debit Card ,D3sktop,NO,R3turning,217.46,9,28.59 TRY,3,3.7,24.41
+2019,12,Ank@r@,clothing,DEBIT CARD,D3sktop,yes,@New,313.22,4,15.98 TRY,5,3.5,17.21
+2017,12,mersin,Electronics ,E-W@ll3t,Mobil3,No,N3w,251.51,NA,33.28 TRY,2,3.7,21.53
+NA,3,ANKARA,beauty,CASH ON DELIVERY,@Desktop,YES,R3turning,62.33,4,4.85 TRY,7,4.8,6.78
+2014,8,Kayseri ,HOME,CASH ON DELIVERY,@Mobile,@Yes,@New,138.0,7,12.83 TRY,1,3.4,15.12
+2015,12,adana,BOOKS,Debit Card ,MOBILE,Y3s,new,156.37,5,8.06 TRY,4,3.8,NA
+2013,6,@Gaziantep,NA,credit card,D3sktop,no,new,84.6,9,10.1 TRY,7,4.6,15.06
+2021,5,Antalya ,Home ,Debit Card ,Mobil3,@Yes,na,458.64,3,43.3 TRY,4,4.1,NA
+2014,12,@Van,na,Credit Card ,@Tablet,na,NEW,71.5,1,8.41 TRY,7,4.0,0.72
+2021,9,diyarbakir,books,E-Wallet ,MOBILE,yes,returning,62.08,5,9.06 TRY,7,4.5,16.07
+2017,11,Mersin ,El3ctronics,@Debit Card,@Mobile,NA ,@New,375.87,4,29.85 TRY,3,4.2,2.61
+2022,7,KAYSERI,NA,@E-Wallet,Mobile ,YES,na,NA,6,30.21 TRY,5,3.9,96.43
+2019,4,Konya ,books,Cash on Delivery ,mobile,@Yes,@New,372.05,2,35.53 TRY,1,3.3,NA
+2021,8,samsun,beauty,cash on delivery,T@bl3t,NO,N3w,NA,5,NA TRY,1,3.5,50.93
+2010,11,antalya,El3ctronics,E-Wallet ,NA,No,New ,144.91,10,21.35 TRY,2,3.9,31.88
+2022,8,@Konya,@Toys,D3bit C@rd,DESKTOP,No,NEW,356.38,2,45.28 TRY,5,3.4,54.07
+2012,7,Burs@,electronics,NA,T@bl3t,No,new,155.27,8,16.19 TRY,6,3.2,35.3
+2014,11,mersin,Beauty ,E-WALLET,@Mobile,yes,RETURNING,242.03,4,21.66 TRY,2,4.1,56.93
+2011,4,NA,Beauty ,na,@Mobile,Yes ,RETURNING,453.07,5,34.05 TRY,7,4.2,130.82
+2019,6,diyarbakir,@Beauty,DEBIT CARD,Desktop ,NA ,@Returning,369.58,NA,18.53 TRY,1,4.1,96.98
+2017,12,Ad@n@,Clothing,E-W@ll3t,Tablet ,@Yes,returning,308.4,9,26.38 TRY,2,4.3,35.76
+2019,8,konya,@Home,credit card,@Desktop,Y3s,RETURNING,446.99,7,58.41 TRY,7,3.1,94.61
+2013,4,ANKARA,Clothing,@Debit Card,DESKTOP,@Yes,@New,454.18,3,63.72 TRY,4,3.8,51.76
+2016,3,Kony@,clothing,na,tablet,@No,@New,202.42,NA,14.81 TRY,6,NA,48.62
